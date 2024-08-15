@@ -1,0 +1,69 @@
+9.1
+Zawodnik A7 jest środkowym obrońcą, kiedy B3 próbuje podać piłkę kozłem obok niego, A7 stara się zatrzymać piłkę stopą. Nie jest to pierwszy raz w tym meczu, kiedy tak robi. Piłka odbija się od jego stopy i wpada do bramki drużyny A. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B
+b) Bramka dla drużyny B
+c) Rzut karny dla drużyny B
+d) Kara progresywna dla A7
+
+9.2
+Zawodnik A5 rzuca na bramkę, piłka odbija się od poprzeczki drużyny B, a następnie uderza w stopę B3, który stoi w polu gry i wpada do bramki drużyny B. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny A
+b) Bramka dla drużyny A
+c) Rzut karny dla drużyny A
+d) Rzut od bramki dla drużyny B
+
+9.3
+Bramkarz A1 obronił rzut na bramkę i wybił piłkę w kierunku pola gry. Piłka uderza obrońcę A3, który stoi 3 metry w polu bramkowym i wpada do bramki drużyny A. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B
+b) Rzut karny dla drużyny B
+c) Kara progresywna dla A3
+d) Bramka dla drużyny B
+
+9.4
+Bramkarz A1 przytrzymuje piłkę przez 4 sekundy w taki sposób, że 3/4 jej obwodu jest poza linią bramkową. Prawidłowa decyzja?
+a) Bramka dla drużyny B
+b) Rzut wolny dla drużyny B
+c) Rzut od bramki dla drużyny A
+
+9.5
+Zawodnik A3 wchodzi do pola bramkowego swojej drużyny i stara się obronić rzut drużyny B nogą. Piłka odbija się od jego stopy i wpada do bramki drużyny A. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B
+b) Rzut karny dla drużyny B
+c) Bramka dla drużyny B
+d) Rzut od bramki dla drużyny A
+
+9.6
+Zawodnik A11 stara się zdobyć bramkę rzucając piłkę wysoko ponad głową bramkarza B1, który stoi daleko przed swoją bramką. Tuż przed tym jak piłka wpada do pustej bramki wybija ją menadżer drużyny B, który zajmował miejsce na trybunach i nie jest wpisany do protokołu. Piłka wychodzi poza linię końcową boiska. Prawidłowa decyzja?
+a) Rzut karny dla drużyny A
+b) Bramka dla drużyny A
+c) Dyskwalifikacja dla menadżera drużyny B, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
+d) Dodatkowy opis sytuacji w protokole
+
+9.7
+Na 2 sekundy przed końcem meczu jest remis 25:25. Menadżer zespołu A, który nie jest wpisany do protokołu, przechwytuje piłkę, która po rzucie B3 zmierzała do pustej bramki drużyny A. Natychmiast po tym rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
+a) Wynik meczu 25:25
+b) Rzut karny dla drużyny B
+c) Wynik meczu 25:26
+d) Dyskwalifikacja dla menadżera, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
+e) Dodatkowy opis sytuacji w protokole
+
+9.8
+Zawodnik B9 zdobywa bramkę z rzutu karnego. Drużyny A szybko wykonuje rzut rozpoczynający grę. Po dwóch podaniach A4 zdobywa bramkę. W tym momencie mierzący czas przerywa grę gwizdkiem i informuje, że B9, który w międzyczasie wrócił do strefy zmian, w momencie wykonywania rzutu karnego, miał do odbycia jeszcze 20 sekund kary 2-minutowego wykluczenia. Prawidłowa decyzja?
+a) Powtórzyć rzut karny dla drużyny B
+b) Dodatkowe 2-minutowe wykluczenie dla B9
+c) Obie bramki są ważne
+d) Obie bramki są anulowane
+
+9.9
+Zaraz przed końcem meczu, przy wyniku 22:21, A5 poprawnie wykonuje rzut rozpoczynający grę. Zawodnik podaje piłkę w kierunku własnej bramki. Bramkarz A1 nie dotyka piłki, która mija go i wpada do bramki. Zawodnicy drużyny A przekroczyli linię środkową boiska po gwizdku sędziego, ale zanim piłka opuściła rękę A5. Prawidłowa decyzja?
+a) Bramka dla drużyny B
+b) Rzut wolny dla drużyny B
+c) Powtórzyć rzut rozpoczynający grę po sygnale gwizdkiem
+d) Kara progresywna dla A5
+e) Zatrzymanie czasu gry
+
+9.10
+Zawodnik A9 próbuje zatrzymać piłkę stopą. Robiąc to odbija piłkę w taki sposób, że wpada ona do bramki drużyny A. Jest to drugi raz w tym meczu, kiedy A9 zagrywa w ten sposób. Prawidłowa decyzja?
+a) Bramka dla drużyny B
+b) Rzut wolny dla drużyny B
+c) 2-minutowe wykluczenie dla A9

@@ -1,0 +1,441 @@
+4.1
+Krótko przed rozpoczęciem meczu A11 jest poważnie kontuzjowany i nie może wystąpić w meczu. Prawidłowa decyzja?
+a) A11 nie może być zastąpiony
+b) A11 może być zastąpiony tylko za zgodą drużyny przeciwnej
+c) A11 może być zastąpiony w protokole i zmieniający go zawodnik może używać numeru 11 Jednak sędziowie muszą wziąć pod uwagę szczegółowe regulacje danych zawodów
+d) A11 może być zastąpiony, ale zmieniający go zawodnik nie może używać numeru 11
+
+4.2
+Drużyna B przystąpiła do gry z pięcioma zawodnikami. Bramkarz nie jest obecny w momencie rozpoczęcia meczu. B5 występuje jako bramkarz w drużynie B. Jakie ma to konsekwencje dla B5?
+a) B5 może w dowolnym momencie stać się zawodnikiem z pola gry, o ile dokona prawidłowej zmiany
+b) B5 nie może uczestniczyć w grze jako zawodnik z pola gry
+c) B5 może w dowolnym momencie stać się zawodnikiem z pola gry, o ile zgodzi się na to drużyna przeciwna
+d) B5 może w dowolnym momencie stać się zawodnikiem z pola gry, o ile bramkarz drużyny B jest już obecny
+
+4.3
+Zaraz po rozpoczęciu meczu przedstawiciel klubu drużyny A zajmuje miejsce w strefie zmian drużyny obok dwóch osób towarzyszących, masażysty i trenera. Jakie ma to konsekwencje?
+a) Drugi bramkarz musi zająć miejsce poza strefą zmian
+b) Przedstawiciel klubu musi opuścić strefę zmian
+c) Jedna z osób towarzyszących drużyny A musi opuścić strefę zmian
+d) Osoby niewpisane do protokołu muszą opuścić strefę zmian
+e) Kara progresywna dla osoby odpowiedzialnej za drużynę A
+
+4.4
+Jaka jest minimalna liczba zawodników jednej drużyny, którzy muszą być obecni i wpisani do protokołu, w trakcie rozpoczęcia meczu?
+a) 5
+b) 4 zawodników z pola gry i 1 bramkarz
+c) 5 zawodników z pola gry i 1 bramkarz
+d) 6 zawodników z pola gry
+
+4.5
+Cztery sytuacje. Kto jest uprawniony do gry?
+a) Zawodnik, który jest obecny w momencie rozpoczęcia gry i jest wpisany do protokołu
+b) Zawodnik, który nie jest obecny w momencie rozpoczęcia gry, ale jest wpisany do protokołu
+c) Zawodnik, który nie jest obecny w momencie rozpoczęcia gry, ale nie jest wpisany do protokołu
+d) Zawodnik, który dostał zgodę od mierzącego czas, ale nie jest wpisany do protokołu
+
+4.6
+W momencie rozpoczęcia gry obecnych jest tylko 6 zawodników drużyny A. Zaraz po rozpoczęciu meczu przybywa spóźniony zawodnik A7. A7 wybiega ze strefy zmian wprost na boisko. Nie jest wpisany do protokołu. Prawidłowa decyzja?
+a) Dyskwalifikacja dla A7 (czerwona kartka pokazana przez sędziów)
+b) 2-minutowe wykluczenie dla A7, który musi zostać dopisany do protokołu
+c) A7 musi zostać dopisany do protokołu, jeśli jest to zgodne ze szczegółowymi regulacjami danych zawodów
+d) Kara progresywna dla osoby odpowiedzialnej za drużynę A
+
+4.7
+Sędziowie przyznali rzut wolny dla drużyny A przy linii pola bramkowego drużyny B. W tym momencie rozlega się gwizdek mierzącego czas, który zatrzymuje czas gry. Sędziowie pytają o powód przerwy w grze. Mierzący czas informuje, że A9 popełnił błąd zmiany. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny A przy linii rzutów wolnych drużyny B
+b) Rzut wolny dla drużyny B przy linii rzutów wolnych drużyny B
+c) Rzut wolny dla drużyny B z linii strefy zmian drużyny A
+d) 2-minutowe wykluczenie dla A9
+
+4.8
+B14 wykonał prawidłową zmianę w trakcie przerwy w grze. Pomimo to mierzący czas gwizdkiem sygnalizuje błąd. B14 nie jest poprawnie wpisany do protokołu. Okazuje się, że zawodnik jest wpisany do protokołu z numerem 18. Prawidłowa decyzja?
+a) Kara progresywna dla osoby odpowiedzialnej za drużynę B
+b) Rzut wolny dla drużyny A z linii strefy zmian przy stoliku sędziowskim
+c) Korekta numeru w protokole.
+d) Opis sytuacji w protokole, gra jest wznowiona rzutem odpowiadającym sytuacji, w której nastąpiło przerwanie gry
+
+4.9
+Kiedy dwie osoby z danej drużyny (osoby towarzyszące i/lub zawodnicy) mogą wejść na boisko?
+a) W czasie przerwy w grze
+b) W czasie przerwy w grze, po zezwoleniu sędziów
+c) Kiedy zawodnik jest kontuzjowany
+d) Po zezwoleniu mierzącego czas
+
+4.10
+Sędziowie sygnalizują zatrzymanie czasu gry z powodu trzeciego 2-minutowego wykluczenia dla A2. W momencie, kiedy sędziowie zwracają się do stolika sędziowskiego, aby zasygnalizować dyskwalifikację, osoba odpowiedzialna za drużynę A wbiega na boisko i protestuje przeciwko wykluczeniu. Osoba towarzysząca drużynie A była już wcześniej ukarana upomnieniem. Prawidłowa decyzja?
+a) Dyskwalifikacja dla osoby odpowiedzialnej za drużynę A (czerwona kartka pokazana przez sędziów); drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
+b) Upomnienie dla osoby odpowiedzialnej za drużynę A
+c) Dyskwalifikacja dla osoby odpowiedzialnej za drużynę A, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
+d) 2-minutowe wykluczenie dla osoby odpowiedzialnej za drużynę A
+e) Drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
+
+4.11
+W czasie przerwy w grze spowodowanej kontuzją zawodnika, A2 wbiega na boisko jako dodatkowy zawodnik, mimo że żaden z sędziów nie sygnalizował zgody na wejście na boisko. Prawidłowa decyzja?
+a) Upomnienie dla A2
+b) Kara progresywna dla osoby odpowiedzialnej za drużynę A
+c) Dyskwalifikacja dla A2 (czerwona kartka pokazana przez sędziów)
+d) 2-minutowe wykluczenie dla A2; Drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
+
+4.12
+A5 zostaje kontuzjowany na boisku, sędziowie zezwalają dwóm zawodnikom z jego drużyny na wejście na boisko w celu udzielenia mu pomocy. Osoba towarzysząca drużynie B także wchodzi na boisko i udziela wskazówek bramkarzowi. Prawidłowa decyzja?
+a) Brak reakcji, sygnalizacja zezwala wszystkim zawodnikom i osobom towarzyszącym na wejście na boisko
+b) Wszystkie cztery osoby towarzyszące drużynie B zostają ukarane upomnieniem i, jeśli sytuacja się powtórzy, będą zdyskwalifikowane
+c) Osoba odpowiedzialna za drużynę B zostaje ukarana upomnieniem
+d) Kara progresywna dla osoby towarzyszącej drużynie B
+e) Po otrzymaniu opieki medycznej na boisku A5 musi opuścić boisko i może ponownie wejść dopiero po trzecim ataku jego drużyny
+
+4.13
+Bramkarz A16 zostaje kontuzjowany i musi być zastąpiony przez A5. A5 zmienia koszulkę (na znacznik). Po 20 minutach A16 jest ponownie gotowy do gry i osoba towarzysząca drużynie A decyduje o powrotnej zmianie zawodników. A5 ponownie zmienia koszulkę i niezauważony przez sekretarza wraca na boisko jako zawodnik z pola gry. Prawidłowa decyzja?
+a) Brak reakcji, to jest zgodne z przepisami gry
+b) Rzut wolny dla drużyny B
+c) 2-minutowe wykluczenie dla A5
+d) Dyskwalifikacja dla A5 (czerwona kartka pokazana przez sędziów)
+
+4.14
+A4 opuszcza boisko poza linią strefy zmian. Kiedy A4 przekracza linie boczną boiska, ale zanim wchodzi do strefy zmian, A11 wychodzi na boisko ze strefy zmian. Jaka jest prawidłowa decyzja po gwizdku mierzącego czas?
+a) Rzut wolny dla drużyny B z miejsca, gdzie A4 opuścił boisko
+b) Rzut wolny dla drużyny B na wysokości strefy zmian drużyny A
+c) 2-minutowe wykluczenie dla A4
+d) 2-minutowe wykluczenie dla A11
+e) 2-minutowe wykluczenie dla A11 i dla A4
+
+4.15
+B3 w trakcie przerwy w grze popełnia pierwszy w swojej drużynie błąd zmiany. Przerwa była spowodowana przyznaniem rzutu wolnego na korzyść drużyny B. B3 nie był do tej pory upomniany ani wykluczony. Prawidłowa decyzja?
+a) Upomnienie dla B3
+b) 2-minutowe wykluczenie dla B3
+c) Rzut wolny dla drużyny A
+d) Rzut wolny dla drużyny B
+
+4.16
+Po tym jak sędziowie zadecydowali o rzucie karnym dla drużyny A, A27, który został wyznaczony do wykonywania tego rzutu, popełnia błąd zmiany. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B
+b) Rzut karny dla drużyny A
+c) Rzut od bramki dla drużyny B
+d) 2-minutowe wykluczenie dla A27
+
+4.17
+Drużyna A zdobywa bramkę. Sędziowie nie dali jeszcze sygnału gwizdkiem na wznowienie rzutem rozpoczynającym grę, kiedy B10 wchodzi na boisko zanim opuszcza je B6. Prawidłowa decyzja?
+a) Rzut rozpoczynający grę
+b) Rzut wolny dla drużyny A
+c) 2-minutowe wykluczenie dla B10
+d) 2-minutowe wykluczenie dla B6
+
+4.18
+W momencie rozpoczęcia meczu w drużynie A jest tylko 12 zawodników, ciągle brakuje dwóch bramkarzy. Mimo to drużyny A rozpoczyna mecz z jednym z zawodników z pola gry w roli bramkarza. Które z poniższych stwierdzeń są prawdziwe?
+a) Zawodnik z pola gry, który rozpoczął mecz jako bramkarz, musi być wpisany do protokołu z numerem 1, 12 lub 16
+b) Zawodnik z pola gry, który rozpoczął mecz jako bramkarz, może w dowolnym czasie stać się graczem w polu
+c) Spóźnieni bramkarze drużyny A muszą być wpisani do protokołu z numerami 1,12 lub 16
+d) Jeden ze spóźnionych bramkarzy może uczestniczyć w grze tylko jako zawodnik z pola gry
+
+4.19
+W czasie przerwy w grze A5 popełnia pierwszy w swoim zespole błąd zmiany. Drużyny A była w posiadaniu piłki, kiedy rozpoczęła się przerwa w grze. Prawidłowa decyzja?
+a) Brak reakcji
+b) Upomnienie dla A5
+c) 2-minutowe wykluczenie dla A5
+d) Rzut wolny dla drużyny B
+e) Drużyna A pozostaje w posiadaniu piłki
+
+4.20
+Bramkarz A3 chce wykonać rzut karny. W celu obrony pustej bramki A15 w stroju bramkarza prawidłowo zmienia się z jednym z zawodników z pola gry. Prawidłowa decyzja?
+a) 2-minutowe wykluczenie dla A3
+b) 2-minutowe wykluczenie dla A15
+c) Brak reakcji
+d) Rzut karny dla drużyny A
+e) Rzut wolny dla drużyny B na wysokości strefy zmian drużyny A
+
+4.21
+Zawodnik drużyny A jest w kontrataku i ma sytuację pewną do zdobycia bramki. W tym momencie B3 popełnia błąd zmiany. Mierzący czas i sekretarz nie reagują, ale całą sytuację zauważa sędzia z pola gry. Prawidłowa decyzja?
+a) Natychmiast 2-minutowe wykluczenie B3; rzut wolny dla drużyny A
+b) Natychmiast 2-minutowe wykluczenie B3; rzut karny dla drużyny A
+c) Odczekać na efekt sytuacji pewnej do zdobycia bramki; 2-minutowe wykluczenie dla B3 i rzut wolny dla drużyny A
+d) Odczekać na efekt sytuacji pewnej do zdobycia bramki; 2-minutowe wykluczenie dla B3 i rzut odpowiadający sytuacji na boisku
+
+4.22
+Po udanej obronie bramkarza A1 piłka toczy się wzdłuż linii bocznej boiska w pobliżu strefy zmian drużyny A. A5, który siedzi na ławce zmian, zagrywa piłkę stopą tak, żeby A4 mógł ją zebrać zanim ta opuści boisko przez linię boczną. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B
+b) Rzut z linii bocznej dla drużyny B
+c) 2-minutowe wykluczenie dla A5
+d) Dyskwalifikacja dla A5 (czerwona kartka pokazana przez sędziów)
+e) Drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
+
+4.23
+30 sekund przed końcem otrzymanej kary wykluczenia A2 wchodzi na boisku nie wpływając na przebieg meczu. Drużyny A jest w posiadaniu piłki. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B
+b) Rzut wolny dla drużyny A
+c) 2-minutowe wykluczenie dla A3; drużyna A będzie grała na boisku w składzie dodatkowo pomniejszonym o 1 zawodnika przez 30 sekund
+d) 30 sekund wykluczenie dla A3; drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2-minuty
+e) Dyskwalifikacja dla A3 (czerwona kartka pokazana przez sędziów); drużyna A będzie grała na boisku w składzie dodatkowo pomniejszonym o 1 zawodnika przez 30 sekund
+
+4.24
+A5 został wykluczony. Po 1 minucie i 45 sekundach kary osoba odpowiedzialna za drużynę A wysyła go z powrotem na boisko. Prawidłowa decyzja?
+a) Kolejne 2-minutowe wykluczenie dla A5; drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2-minuty i 15 sekund
+b) Dyskwalifikacja dla A5 (czerwona kartka pokazana przez sędziów); drużyna A będzie grała na boisku w składzie pomniejszonym o 2 zawodników przez 15 sekund i o 1 zawodnika przez 1 minutę i 45 sekund
+c) Kolejne 2-minutowe wykluczenie dla A5; drużyna A będzie grała na boisku w składzie pomniejszonym o 2 zawodników przez 15 sekund i o 1 zawodnika przez 1 minutę i 45 sekund
+
+4.25
+Po odbyciu kary wykluczenia bramkarz B1 wraca na boisko przyłączając się do drużyny w obronie. Ubrany jest w strój bramkarza i jako szósty zawodnik z pola gry zajmuje pozycję na skrzydle. Prawidłowa decyzja?
+a) Brak reakcji
+b) Rzut karny dla drużyny A
+c) Rzut wolny dla drużyny A
+d) 2-minutowe wykluczenie dla B1
+
+4.26
+Które z poniższych stwierdzeń odnośnie krwawiącego zawodnika są prawdziwe?
+a) Zawodnik musi natychmiast i dobrowolnie opuścić boisko
+b) Zawodnik może pozostać na boisku do następnej przerwy w grze
+c) Zawodnik, który zmienia się z krwawiącym zawodnikiem, może wejść na boisko poza strefą zmian
+d) Zawodnik może wrócić do gry tylko w trakcie następnej przerwy w grze
+e) Zawodnik, który nie wykona zaleceń sędziów w tej sytuacji, musi być ukarany jak zachowujący się niesportowo
+
+4.27
+A5 jest sytuacji pewnej do zdobycia bramki, sam na sam z bramkarzem B1. B11 popełnia błąd zmiany, wchodzi na boisko zanim B9 je opuścił. Mierzący czas gwiżdże z powodu złej zmiany dokładnie w momencie, kiedy A5 jest gotowy do oddania rzutu. Prawidłowa decyzja?
+a) 2-minutowe wykluczenie dla B11
+b) Dyskwalifikacja dla B11, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
+c) Rzut wolny dla drużyny A
+d) Rzut karny dla drużyny A
+
+4.28
+Bramkarz B1 broni rzut na bramkę i podaje piłkę do B4. Następnie B1 podchodzi do linii bocznej boiska w pobliżu strefy zmian swojego zespołu. B1 wyraźnie przekracza linię boczną, sięga po ręcznik i pije wodę z bidonu. Nie jest zmieniony przez żadnego z bramkarzy czy zawodników z pola gry. Prawidłowa decyzja?
+a) Brak reakcji
+b) 2-minutowe wykluczenie dla B1 z powodu złej zmiany
+c) Rzut wolny dla drużyny A z linii strefy zmian drużyny B
+
+4.29
+Osoba towarzysząca drużynie B była wcześniej w meczu ukarana upomnieniem. Po jednej z decyzji sędziów, inna osoba towarzysząca drużynie B wbiega kilka metrów na boisko bez zezwolenia sędziów. Prawidłowa decyzja?
+a) Brak reakcji
+b) Upomnienie dla osoby towarzyszącej drużyny B
+c) 2-minutowe wykluczenie dla osoby towarzyszącej drużyny B
+d) Dyskwalifikacja dla osoby towarzyszącej drużyny B, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
+
+4.30
+Trwa przerwa w grze z powodu kontuzji zawodnika A6, która była efektem przypadkowego zderzenia. Wypadek nie skutkował karą progresywną dla żadnego z zawodników drużyny przeciwnej. Sędziowie pozwolili dwóm osobom z drużyny A z na wejście na boisko i udzielenie pomocy A6. Osoba towarzysząca „C” z drużyny A udziela pomocy A6, osoba towarzysząca „A” z drużyny A krzyczy na B5, który w jej opiniispowodował kontuzję A6. Podąża za B5 do strefy zmian drużyny B i uderza go w twarz. Prawidłowa decyzja?
+a) Dyskwalifikacja dla osoby towarzyszącej „A” z drużyny A, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów); drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
+b) Gra jest wznowiona na gwizdek rzutem odpowiadającym sytuacji, która spowodowała przerwę w grze
+c) 2-minutowe wykluczenie dla osoby towarzyszącej „A” z drużyny A; drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
+d) Rzut wolny dla drużyny B
+e) Dyskwalifikacja dla osoby towarzyszącej „A” z drużyny A, bez opisu w protokole (czerwona kartka pokazana przez sędziów); drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
+f) Po otrzymaniu opieki medycznej na boisku A6 musi opuścić boisko i może ponownie wejść na boisko po trzecim ataku jego drużyny
+
+4.31
+Zaraz po wykonaniu rzutu rozpoczynającego grę przez drużynę B sędziowie orientują się, że osoba, która nie jest wpisana do protokołu, zajmuje miejsce w strefie zmian drużyny B. Okazuje się, że to członek klubu. Drużyna B ma już 4 osoby wpisane do protokołu. Prawidłowa decyzja?
+a) Osoba niewpisana do protokołu musi opuścić strefę zmian
+b) Kara progresywna dla osoby odpowiedzialnej za drużynę B
+c) Jedna z osób towarzyszących drużynie musi opuścić strefę zmian
+d) Gra jest wznawiana rzutem wolnym dla drużyny A
+
+4.32
+Które z poniższych stwierdzeń odnośnie strojów są prawdziwe?
+a) Wszyscy zawodnicy występujący w danej drużynie jako bramkarze muszą posiadać ten sam kolor strojów
+b) Koszulki zawodników powinny być oznaczone numerami o wysokości co najmniej 20 cm na plecach i z przodu
+c) Zawodnicy grający jako bramkarze mogą używać ochraniaczy na głowę, o ile są one wykonane z miękkiego materiału
+d) Koszulki zawodników powinny być oznaczone numerami od 1 do 100
+
+4.33
+W 21:00 A10 otrzymał pierwszą karę 2-minutową wykluczenia. Po wznowieniu meczu głośno protestuje przeciwko decyzjom sędziów, tak że przerywają oni grę w 21:30 i nakładają na niego kolejną karę 2-minutowego wykluczenia. Jakie ma to konsekwencje?
+a) 2-minutowe wykluczenie dla A10
+b) Dyskwalifikacja dla A10
+c) Drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika do 25:00
+d) Drużyna A będzie grała na boisku w składzie pomniejszonym o 2 zawodników do 23:00, następnie o 1 zawodnika do 23:30
+
+4.34
+W których z poniższych sytuacji osobę odpowiedzialną za drużynę należy ukarać progresywnie?
+a) Kiedy zawodnik opuszcza strefę zmian bez informowania mierzącego czas/sekretarza
+b) Kiedy w momencie rozpoczęcia meczu w strefie zmian drużyny znajdują się osoby niewpisane do protokołu
+c) Kiedy dodatkowy zawodnik wejdzie na boisko
+d) Kiedy zawodnik nieuprawniony do gry wejdzie na boisko
+e) Kiedy po rozpoczęciu meczu sędziowie zauważą u zawodników niedozwolone przedmioty i wyposażenie (ochraniacze, pierścionki itp.)
+f) Kiedy dochodzi do złamania regulaminu strefy zmian, ale nie można jednoznacznie wskazać winnego przekroczenia przepisów
+
+4.35
+Sędziowie zezwolili dwóm osobom z drużyny A na wejście na boisko w celu udzielenia pomocy kontuzjowanemu zawodnikowi. Kto jest uprawniony do wejścia na boisko?
+a) Tylko dwie osoby towarzyszące drużynie A
+b) Dwie osoby towarzyszące drużynie A i dwie drużynie B
+c) Dwie osoby (osoby towarzyszące lub zawodnicy) z drużyny A
+d) Dwie osoby (osoby towarzyszące lub zawodnicy) z drużyny A i dwie z drużyny B
+e) Lekarz drużyny A, jeśli nie jest jedną z 4 osób towarzyszących drużynie A
+
+4.36
+Osoba towarzysząca „C” z drużyny A otrzymała wcześniej w meczu upomnienie za protestowanie przeciwko decyzjom sędziów. Teraz osoba towarzysząca „B” z drużyny A wchodzi na boisko bez zezwolenia sędziów. Nie zachowuje się przy tym niesportowo. Prawidłowa decyzja?
+a) Upomnienie dla osoby towarzyszącej „B” z drużyny A
+b) 2-minutowe wykluczenie dla osoby towarzyszącej „B” z drużyny A (musi opuścić ławkę zmian na 2 minuty)
+c) Dyskwalifikacja dla osoby towarzyszącej „B” z drużyny A (czerwona kartka pokazana przez sędziów); drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty
+d) 2-minutowe wykluczenie dla osoby towarzyszącej „B” z drużyny A; drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty; osoba towarzysząca może pozostać w strefie zmian
+
+4.37
+Które z poniższych stwierdzeń NIE są dozwolone w czasie przerwy w grze spowodowanej kontuzją zawodnika, po tym jak sędziowie zezwolili na wejście na boisko dwóm osobom z jego drużyny w celu udzielenia mu pomocy.
+a) Zawodnik z drużyny B stoi przy linii bocznej boiska i przyjmuje instrukcje od trenera
+b) Zawodnicy drużyny A dokonują zmian poza strefą zmian swojego zespołu
+c) Jedna z osób towarzyszących drużyny A, która jest na boisku odchodzi od kontuzjowanego zawodnika i udziela instrukcji innemu zawodnikowi
+
+4.38
+Przed rozpoczęciem meczu delegat zauważa, że BIAŁY 7 ma założone ochraniacze na kostki z twardego materiału, które nie są zakryte/zabezpieczone miękkim materiałem. Jaka jest/są właściwa decyzja?
+a) BIAŁY 7 może grać z ochraniaczami na kostki, ale delegat musi przesłać raport kierownictwu zawodów.
+b) BIAŁY 7 nie może grać z ochraniaczami na kostki, które mają odsłonięte twarde części. Delegat musi powiadomić odpowiedzialnego oficjela drużyny, że zawodnik powinien zdjąć ochraniacze kostek lub przykryć twarde części miękkim materiałem.
+c) BIAŁY 7 otrzyma upomnienie.
+d) Osoba odpowiedzialna za drużynę otrzyma upomnienie.
+e) Żadna z poprzednich odpowiedzi nie jest prawidłowa.
+
+4.39
+W 29:00 minucie meczu zawodnik A7 zostaje ukarany 2-minutowym wykluczeniem. Po przerwie w meczu, sędzia z pola gry daje sygnał na rozpoczęcie II połowy. 3 sekundy później mierzący czas przerywa grę gwizdkiem. Drużyny A ma 7 zawodników w polu gry. Prawidłowa decyzja?
+a) 1 zawodnik drużyny A musi opuścić boisko, brak dodatkowej kary
+b) 2-minutowe wykluczenie dla dodatkowego zawodnika z drużyny A
+c) Drużyna A będzie grała na boisku w składzie pomniejszonym o 2 zawodników przez 57 sekund i o 1 zawodnika przez 1 min. i 3 sekundy
+
+4.40
+Czas gry 43:27. A15 zdobywa bramkę, drużyna B wykonuje rzut rozpoczynający, zaraz po tym mierzący czas przerywa grę sygnałem gwizdka. Mierzący czas informuje sędziów, że A15 nie jest wpisany do protokołu. Drużyny A ma już 16 zawodników wpisanych do protokołu. Sędziowie orientują się, że A11 nie jest obecny w hali. Prawidłowa decyzja?
+a) Bramka jest anulowana
+b) Bramka jest uznana
+c) A11 musi być wykreślony z protokołu i należy dopisać do niego A15, o ile jest to zgodne ze szczegółowymi regulacjami danych zawodów
+d) A15 nie może występować w meczu i musi opuścić boisko
+e) Kara progresywna dla osoby odpowiedzialnej za drużynę A
+f) Opis sytuacji w protokole
+
+4.41
+Bramkarz A12 doznał kontuzji w trakcie obrony rzutu, leży teraz na parkiecie w polu bramkowym. Prawidłowa decyzja?
+a) A12 może kontynuować grę po otrzymaniu opieki medycznej na boisku
+b) Dwie osoby z drużyny A, które są uprawnione do udziału w meczu, mogą wejść na boisko w celu udzielania pomocy A12, po tym jak sędziowie użyją sygnalizacji nr 15 i nr 16 (zatrzymanie czasu gry, zezwolenie na wejście)
+c) Tylko jedna osoby z drużyny A, która jest uprawniona do udziału w meczu, może wejść na boisko w celu udzielania pomocy A12 po tym jak sędziowie użyją sygnalizacji nr 15 i nr 16 (zatrzymanie czasu gry, zezwolenie na wejście)
+d) Po otrzymaniu opieki medycznej na boisku A12 może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+e) A12 może ponownie wejść na boisku po wznowieniu gry po przerwie w meczu, bez względu na liczbę ataków przeprowadzonych przez jego drużynę
+f) Jeśli osoba towarzysząca odmawia udzielenia pomocy medycznej A12, osoba odpowiedzialna za drużynę musi zostać ukarana progresywnie
+
+4.42
+Bramkarz A1 broni rzut na bramkę. W trakcie obrony uderza głową o słupek i wymaga udzielenia pomocy medycznej na boisku. Prawidłowa decyzja?
+a) A1 może kontynuować grę na boisku, ponieważ udzielenie pomocy medycznej było spowodowane urazem głowy
+b) Po uzyskaniu pomocy medycznej na boisku A1 może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+
+4.43
+Po uzyskaniu pomocy medycznej na boisku A7 siada na ławce w strefie zmian swojego zespołu. W czasie pierwszego ataku drużyny A, B2 przechwytuje podanie i biegnie w kontrataku sam na sam z bramkarzem A12. Zanim B2 oddaje rzut na bramkę, A7 wchodzi na boisko zmieniając się w strefie zmian z A9. Prawidłowa decyzja?
+a) Mierzący czas czeka na efekt rzutu B2 na bramkę, po czym przerywa gwizdkiem z powodu złej zmiany drużyny A
+b) Mierzący czas natychmiast przerywa grę gwizdkiem z powodu złej zmiany drużyny A
+c) Zatrzymanie czasu gry
+d) 2-minutowe wykluczenie dla A7
+e) Dyskwalifikacja dla A7, bez opisu w protokole (czerwona kartka pokazana przez sędziów)
+f) Rzut karny dla drużyny B
+g) Rzut wolny dla drużyny B
+h) Bez względu na liczbę ataków swojej drużyny, A7 może ponownie wejść na boisku po odbyciu kary 2-minutowego wykluczenia, 
+
+4.44
+Po otrzymaniu opieki medycznej na boisku B11 siedzi na ławce zmian i komentuje decyzje sędziów. Z tego powodu otrzymuje swoje pierwsze w tym meczu 2-minutowe wykluczenie. Po drugim ataku swojej drużyny, po upływie 2-minutowego wykluczenie B11 wraca na boisko. Prawidłowa decyzja?
+a) Zatrzymanie czasu gry
+b) 2-minutowe wykluczenie dla B11
+c) Grać dalej
+d) Rzut wolny dla drużyny A
+
+4.45
+B10 dostaje podanie stojąc na linii rzutów wolnych przeciwnika. Zaraz po tym jak łapie piłkę jest przewrócony przez A3. Upada, doznaje kontuzji barku i wymaga opieki medycznej na boisku. Prawidłowa decyzja?
+a) Upomnienie dla A3
+b) 2-minutowe wykluczenie dla A3
+c) Dwie osoby z drużyny B, które są uprawnione do udziału w meczu, mogą wejść na boisko w celu udzielania pomocy B10 po tym jak sędziowie użyją sygnalizacji nr 15 i nr 16 (zatrzymanie czasu gry, zezwolenie na wejście)
+d) B10 może kontynuować grę na boisku po otrzymaniu opieki medycznej na boisku
+e) B10 po otrzymaniu opieki medycznej na boisku może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+f) Zatrzymanie czasu gry
+
+4.46
+B10 biegnąc w kontrataku otrzymał podanie od B9. Tuż po podaniu piłki B9, został przewrócony przez A3. Po złapaniu piłki B10 upada i leży kontuzjowany na parkiecie. Prawidłowa decyzja?
+a) Upomnienie dla A3
+b) 2-minutowe wykluczenie dla A3
+c) Dwie osoby z drużyny B, które są uprawnione do udziału w meczu, mogą wejść na boisko w celu udzielania pomocy B10 po tym jak sędziowie użyją sygnalizacji nr 15 i nr 16 (zatrzymanie czasu gry, zezwolenie na wejście)
+d) B10 może kontynuować grę na boisku po otrzymaniu opieki medycznej na boisku
+e) B10 po otrzymaniu opieki medycznej na boisku, może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+f) Zatrzymanie czasu gry
+
+4.47
+Na 3 minuty przed końcem meczu jest remis 21-21. B2, najskuteczniejszy zawodnik swojego zespołu, doznał urazu kostki i leży na parkiecie. Jeden z sędziów pyta B2 czy potrzebuje opieki medycznej na boisku. Ponieważ B2 nie odpowiada, ale wciąż leży na podłodze, sędziowie przerywają grę i używają sygnalizacji nr 15 i nr 16 (zatrzymanie czasu gry, zezwolenie na wejście) zezwalając dwóm osobą z jego drużyny na wejście i udzielenie mu pomocy na boisku. Drużyna B odmawia wysłania kogokolwiek na boisko. Zanim sędziom udaje się zareagować B2 jest gotowy do gry. Prawidłowa decyzja?
+a) B2 może kontynuować grę na boisku
+b) B2 musi opuścić boisko i może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+c) Kara progresywna dla osoby odpowiedzialnej za drużynę
+
+4.48
+Na 30 sekund przed końcem I połowy A5 otrzymuje opiekę medyczną na boisku. Schodzi z boiska i może ponownie wejść dopiero po trzecim ataku jego drużyny. Po pierwszej minucie II połowy, w czasie drugiego ataku drużyny A, A5 wchodzi na boisko po prawidłowej zmianie z A4. Prawidłowa decyzja?
+a) Grać dalej
+b) 2-minutowe wykluczenie dla A5 z powodu złej zmiany (wejście na boisko za wcześnie po otrzymaniu opieki medycznej na boisku)
+c) Zatrzymanie czasu gry
+
+4.49
+Po zderzeniu A4 i B5 leżą na parkiecie i wydają się kontuzjowani. Sędziowie przerywają grę i używają sygnalizacji nr 15 i nr 16 (zatrzymanie czasu gry, zezwolenie na wejście) zezwalając osobom z obu drużyn na wejście na boisko i udzielenie pomocy zawodnikom. Zanim ktokolwiek zdążył wejść na boisko B5 jest gotowy do gry. A4 otrzymał opiekę medyczną na boisku. Po 20 sekundach jest gotowy do gry. Prawidłowa decyzja?
+a) Po otrzymaniu opieki medycznej na boisku A4 musi opuścić boisko i może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+b) B5 może kontynuować grę, bo nie otrzymał opieki medycznej na boisku
+c) B5 musi opuścić boisko i może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+
+4.50
+Zawodnik A2 jest kontuzjowany i wymaga opieki medycznej na boisku. I połowa meczu kończy się po jednym ataku jego drużyny od tego zdarzenia. A2 bierze udział w ataku swojej drużyny w pierwszej akcji po wznowieniu gry po przerwie. Prawidłowa decyzja?
+a) Mierzący czas natychmiast przerywa grę i informuje sędziów o złej zmianie w drużynie A
+b) 2-minutowe wykluczenie dla A2
+c) Grać dalej
+d) Rzut wolny dla drużyny B z linii strefy zmian drużyny A
+e) Brak wykluczenia dla A2, jednak A2 musi opuścić boisko. Drużyny A pozostaje w posiadaniu piłki, ponieważ błąd popełnił mierzący czas/delegat
+
+4.51
+A4 opuszcza boisko po otrzymaniu opieki medycznej na boisku. Może ponownie wejść dopiero po trzecim ataku jego drużyny. Po drugim ataku drużyny A, osoba odpowiedzialna za drużynę A prosi A4, by zajął miejsce na boisku w obronie. A4 wchodzi na boisko po prawidłowej zmianie z A6 żeby zagrać tylko w obronie. Prawidłowa decyzja?
+a) Brak reakcji (A4 może grać w obronie)
+b) Upomnienie dla A4 ponieważ wszedł na boisko za wcześnie
+c) 2-minutowe wykluczenie dla A4 z powodu złej zmiany
+
+4.52
+Zawodnik A11 ślizga się po parkiecie i wypada za boisko poza linię boczną. Uderza głową w banery reklamowe. Sędziowie natychmiast przerywają grę i wzywają pomoc medyczną do A11. Po 20 sekundach A11 jest gotowy do gry. Prawidłowa decyzja?
+a) A11 może kontynuować grę na boisku, ponieważ otrzymał pomoc medyczną poza boiskiem
+b) A11 musi opuścić boisko i może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+
+4.53
+W pierwszej minucie meczu dochodzi do bójki pomiędzy B3 a A6. B3 upada na parkiet i wydaje się kontuzjowany. Sędziowie upominają słownie dla A6. B3 po otrzymaniu opieki medycznej na boisku jest gotowy kontynuować grę. Prawidłowa decyzja?
+a) B3 może kontynuować grę
+b) B3 musi opuścić boisko i może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+
+4.54
+Drużyna B jest w kontrataku. B2 kozłuje i zostaje popchnięty przez A10. Częściowo traci kontrolę nad ciałem, ale udaje mu się podać do B4, który zdobywa bramkę. Wracając do obrony B4 potyka się i doznaje urazu kostki. Sędziowie przerywają grę gwizdkiem, decydują o 2-minutowym wykluczeniu dla A10 i zezwalają dwóm osobom z drużyny B na wejście na boisko i udzielenie pomocy B4. Po 30 sekundach B4 jest gotowy kontynuować grę. Prawidłowa decyzja?
+a) B4 może kontynuować grę
+b) B4 musi opuścić boisko i może ponownie wejść na boisko dopiero po trzecim ataku jego drużyny
+
+4.55
+A11 rzuca na bramkę. Obrońca B2 pechowo blokuje piłkę głową i wymaga pomocy medycznej na boisku. Po 20 sekundach B2 jest gotowy kontynuować grę. Prawidłowa decyzja?
+a) B2 może kontynuować grę, ponieważ kontuzja była spowodowana urazem głowy
+b) B2 musi opuścić boisko i może ponownie wejść na nie dopiero po trzecim ataku jego drużyny
+
+4.56
+Zawodnik B2 po oddaniu rzutu leży w polu bramkowym drużyny A, najwyraźniej z powodu kontuzji nogi. Drużyna A rozpoczęła kontratak. Prawidłowa decyzja?
+a) Sędziowie natychmiast przerywają grę i używają sygnalizacji nr 15 i nr 16 (zatrzymanie czasu gry, zezwolenie na wejście) zezwalając 2 osobom na wejście na boisko i udzielenie pomocy B2
+b) Sędziowie czekają na efekt kontrataku drużyny A, następnie przerywają grę i używają sygnalizacji nr 15 i nr 16 (zatrzymanie czasu gry, zezwolenie na wejście) zezwalając dwóm osobom na wejście na boisko i udzielenie pomocy B2
+
+4.57
+Zawodnik BIAŁY 2 rozgrzewa się bez ochraniacza łokcia. Po 5 minutach gry drużyna BIAŁYCH jest w posiadaniu piłki. BIAŁY 2 wchodzi na boisko po prawidłowej zmianie. Sędziowie zauważają, że BIAŁY 2 ma na sobie ochraniacz łokcia z odkrytymi twardymi elementami. Prawidłowa decyzja?
+a) Grać dalej, taki ochraniacz na łokieć jest dozwolony
+b) Sędziowie natychmiast przerywają grę, BIAŁY 2 musi opuścić boisko i może wrócić do gry dopiero po ściągnięciu ochraniacza łokcia albo zabezpieczeniu jego twardych elementów miękkim materiałem
+c) Sędziowie przerywają grę, BIAŁY 2 musi opuścić boisko i może wrócić na boisko dopiero po zdjęciu ochraniacza łokcia.
+d) Kara progresywna dla BIAŁY 2
+e) Kara progresywna dla osoby odpowiedzialnej za drużynę BIAŁYCH
+f) Rzut wolny dla drużyny BIAŁYCH
+g) Rzut wolny dla drużyny CZARNYCH
+
+4.58
+Drużyna A jest w ataku przy linie rzutów wolnych. A7 wchodzi na boisko po prawidłowej zmianie, ale jest ubrany w bluzę dresową. Prawidłowa decyzja?
+a) Zatrzymanie czasu gry, aby kontynuować grę zawodnik musi ściągnąć bluzę
+b) Rzut wolny dla drużyny B
+c) 2-minutowe wykluczenie dla A7
+d) Rzut wolny dla drużyny A
+
+4.59
+Drużyna A jest w posiadaniu piłki, kiedy mierzący czas przerywa grę gwizdkiem i informuje sędziów, że A11, który jest na boisku nie jest wpisany do protokołu. Okazuje się, że osoba towarzysząca drużynie A pomyliła numer i zawodnik wpisany jest z numerem 13. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny A
+b) Rzut wolny dla drużyny B
+c) A11 nie jest uprawniony do gry
+d) Korekta numeru w protokole, A11 jest uprawniony do gry
+e) Opis sytuacji w protokole/dodatkowy raport zgodnie z przepisami właściwej federacji.
+f) Kara progresywna dla osoby towarzyszącej „A” z drużyny A
+
+4.60
+Na 10 sekund przed końcem meczu jest remis 29:29. Bramkarz A12 wykonuje rzut od bramki i podaje do A11. Zawodnik A11 dostrzega A9, który stoi sam przy linii pola bramkowego drużyny B. Zanim A11 udaje się do niego podać, mierzący czas przerywa grę gwizdkiem z powodu złej zmiany w drużynie B. B2 wszedł na boisko zanim opuścił je B4. Prawidłowa decyzja?
+a) Zatrzymanie czasu gry
+b) Rzut wolny dla drużyny A
+c) Rzut karny dla drużyny A
+d) 2-minutowe wykluczenie dla B2
+e) Dyskwalifikacja dla B2 (czerwona kartka pokazana przez sędziów)
+
+4.61
+Na 10 sekund przed końcem meczu jest remis 29:29. Bramkarz A12 wykonuje rzut od bramki i podaje do A11. Zawodnik A11 dostrzega A9, który stoi sam przy linii pola bramkowego drużyny B. A11 podaje do A9. Zanim A9 udaje się rzucić na bramkę, mierzący czas przerywa grę gwizdkiem z powodu złej zmiany w drużynie B. B2 wszedł na boisko zanim opuścił je B4. Prawidłowa decyzja?
+a) Zatrzymanie czasu gry
+b) Rzut wolny dla drużyny A
+c) Rzut karny dla drużyny A
+d) 2-minutowe wykluczenie dla B2
+e) Dyskwalifikacja dla B2 (czerwona kartka pokazana przez sędziów)

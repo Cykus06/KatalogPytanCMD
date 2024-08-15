@@ -1,0 +1,27 @@
+3.1
+Jak wiele kolorów może mieć piłka?
+a) 1
+b) 2
+c) 3
+d) Dowolnie wiele
+
+3.2
+Którą z piłek powinni wybrać sędziowie do meczu drużyn męskich (w wieku 16-cie lat i starszych)?
+a) Obwód 57cm, waga 450g
+b) Obwód 58cm, waga 400g
+c) Obwód 59cm, waga 425g
+d) Obwód 60cm, waga 500g
+
+3.3
+Którą z piłek powinni wybrać sędziowie do meczu drużyn żeńskich (w wieku 16-cie lat i starszych)?
+a) Obwód 53cm, waga 350g
+b) Obwód 54cm, waga 300g
+c) Obwód 55cm, waga 425g
+d) Obwód 56cm, waga 375g
+
+3.4
+Sędziowie zadecydowali o użyciu piłki rezerwowej. Kiedy piłka wybrana na początku spotkania powinna być ponownie wprowadzona do gry?
+a) W czasie kolejnej przerwy w grze
+b) Nie może być użyta dopóki nie ma możliwości kontynuowania gry piłką rezerwową
+c) Kiedy sędziowie uznają, że jest to konieczne
+d) Kiedy poprosi o to jedna z drużyn

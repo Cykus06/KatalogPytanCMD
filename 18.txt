@@ -1,0 +1,54 @@
+18.1
+Jakie przepisy opisują podział obowiązków między mierzącym czas a sekretarzem?
+a) Za kontrolę liczby zawodników oraz wejścia i zejścia zawodników odpowiada tylko mierzący czas
+b) Zasadniczo, gdy jest to konieczne, tylko mierzący czas może przerwać grę
+c) Sekretarz musi dać sygnał gwizdkiem, jeśli zaobserwuje nieprawidłową zmianę zawodników
+d) Jeżeli nie ma możliwości pomiaru czasu za pomocą oficjalnego zegara boiskowego, to mierzący czas musi informować osoby odpowiedzialne za drużyny ile czasu gry upłynęło a ile pozostało do końca meczu.
+e) Za liczenie liczby ataków, po udzieleniu zawodnikowi pomocy medycznej na boisku, mierzący czas i sekretarz odpowiadają wspólnie.
+
+18.2
+Skrzydłowy A5 ma sytuację pewną do zdobycia bramki. Osoba towarzysząca „A” z drużyny A ubliża mierzącemu czas. Mierzący czas gwiżdże w momencie, kiedy A5 jest gotowy oddać rzut na bramkę. Świadkiem zdarzenia z osobą towarzyszącą drużynie A był tylko mierzący czas. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B.
+b) Kara dla osoby towarzyszącej „A” z drużyny A.
+c) Rzut wolny dla drużyny A.
+d) Rzut karny dla drużyny A
+e) Opis sytuacji w protokole
+
+18.3
+Osoba odpowiedzialna za drużynę A ubliża sekretarzowi, nie zauważają tego ani sędziowie, ani delegat. W trakcie następnej przerwy w grze sekretarz informuje sędziów o zaistniałej sytuacji. Prawidłowa decyzja?
+a) Dyskwalifikacja dla osoby odpowiedzialnej za drużynę A, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów).
+b) 2-minutowe wykluczenie dla osoby odpowiedzialnej za drużynę A.
+c) Opis sytuacji w protokole.
+d) Upomnienie dla osoby odpowiedzialnej za drużynę A
+e) Nie ma możliwości ukarania osoby odpowiedzialnej za drużynę A
+
+18.4
+Drużyny A jest w posiadaniu piłki przy linii rzutów wolnych drużyny B. Delegat przerywa grę i informuje sędziów, że osoba towarzysząca „A” z drużyny B ubliża mu. Prawidłowa decyzja?
+a) Upomnienie słowne dla osoby towarzyszącej „A” z drużyny B, opis sytuacji w protokole.
+b) Dyskwalifikacja dla osoby towarzyszącej „A” z drużyny B, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów).
+c) Wznowienie gry rzutem wolnym dla drużyny A z linii strefy zmian drużyny B.
+d) Wznowienie gry rzutem wolnym dla drużyny A przy linii rzutów wolnych drużyny B.
+
+18.5
+Drużyny A jest w posiadaniu piłki przy linii rzutów wolnych drużyny B. Mierzący czas przerywa grę i informuje sędziów, że osoba towarzysząca „A” z drużyny A ubliża mu. To zachowanie zaobserwował tylko mierzący czas. Prawidłowa decyzja?
+a) Opis sytuacji w protokole.
+b) 2-minutowe wykluczenie dla osoby towarzyszącej „A” z drużyny A; opis w protokole.
+c) Gra jest wznowiona rzutem wolnym dla drużyny B z linii strefy zmian drużyny A.
+d) Gra jest wznowiona rzutem wolnym dla drużyny A przy linii rzutów wolnych drużyny B.
+
+18.6
+W trakcie meczu, osoba towarzysząca „A” z drużyny A wielokrotnie podchodzi do stolika sędziowskiego i z tego miejsca wydaje instrukcje zawodnikom. Robiąc to komentuje także decyzje sędziów. Sędziowie nie zauważają tego, z powodu hałasu na hali. Prawidłowa decyzja?
+a) Mierzący czas natychmiast przerywa grę i informuje sędziów, że osoba towarzysząca "A” z drużyny A zachowuje się niezgodnie z przepisami.
+b) Mierzący czas czeka do następnej przerwy w grze i informuje sędziów, że osoba towarzysząca „A” z drużyny A zachowuje się niezgodnie z przepisami.
+c) Kara progresywna dla osoby towarzyszącej „A” z drużyny A.
+d) Karanie nie jest możliwe.
+
+18.7
+W którym momencie mierzący czas/sekretarz powinien poinformować sędziów o naruszeniu regulaminu strefy zmian?
+a) Natychmiast.
+b) W czasie następnej przerwy w grze.
+
+18.8
+Jeśli delegat przerwie grę z powodu naruszenia przepisów przez drużynę A to czy gra będzie wznowiona przez drużynę B?
+a) Tak
+b) Nie

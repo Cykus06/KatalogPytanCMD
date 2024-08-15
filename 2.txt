@@ -1,0 +1,423 @@
+2.1
+Bramkarz A1 broni rzut, piłka przekracza linię końcową boiska zaraz po automatycznym sygnale kończącym grę. Sędziowie orientują się, że mecz zakończył się 5 minut za wcześnie. Zawodnicy wciąż pozostają na boisku. Jak należy wznowić grę?
+a) Rzut od bramki dla drużyny A
+b) Rzut wolny dla drużyny A
+c) Bez sygnału gwizdka
+d) Po sygnale gwizdka
+
+2.2
+Natychmiast po automatycznym sygnale kończącym grę na zakończenie I połowy meczu sędziowie orientują się, że I połowa zakończyła się 1 minutę za wcześnie. Prawidłowa decyzja?
+a) Przedłużyć II połowę o 1 minutę
+b) 1 minuta nie jest rozgrywana
+c) Po przerwie w meczu, rozegrać 1 minutę na wybranych na początku meczu stronach boiska, następnie zmienić strony boiska i rozegrać II połowę meczu
+d) Zatrzymać drużyny na boisku i rozegrać brakującą minutę
+
+2.3
+A11 rzuca na bramkę. Bramkarz B1 łapie piłkę w momencie automatycznego sygnału kończącego grę. Sędziowie zwracają uwagę mierzącemu czas, że pozostało do rozegrania 30 sekund II połowy meczu. Wszyscy zawodnicy wciąż pozostają na boisku. W jaki sposób gra powinna się rozpocząć?
+a) Rzut wolny dla drużyny B
+b) Rzut od bramki dla drużyny B
+c) Rzut wolny dla drużyny A
+d) Po sygnale gwizdka
+e) Bez sygnału gwizdka
+
+2.4
+Drużyna A zamierza wykonać rzut wolny po sygnale gwizdka kończącym grę. Najpierw A3, a następnie A4 opuszczają boisko i zostają zmienieni przez A5, a następnie na boisko wchodzi A6. Prawidłowa decyzja?
+a) Mierzący czas daje sygnał gwizdkiem z powodu złej zmiany drużyny A
+b) 2-minutowe wykluczenie dla A3 z powodu złej zmiany
+c) 2-minutowe wykluczenie dla A6 z powodu złej zmiany
+d) Nie ma powodu do interwencji mierzącego czas
+e) Rzut wolny dla drużyny A
+f) Rzut wolny dla drużyny B
+
+2.5
+Drużyna B chce wykonać rzut wolny, tuż przed końcem meczu, bezpośrednim rzutem na bramkę. Automatyczny sygnał kończący grę rozlega się tuż przed tym jak piłka wpada do bramki. Prawidłowa decyzja?
+a) Koniec meczu
+b) Rzut wolny dla drużyny B musi być powtórzony bez sygnału gwizdka
+c) Rzut wolny dla drużyny B musi być powtórzony po sygnale gwizdkiem
+d) Rzut karny dla drużyny B
+
+2.6
+Na krótko przed końcem meczu B2 otrzymuje piłkę na linii pola bramkowego drużyny A i ma sytuację pewną do zdobycia bramki. Próbuje zdobyć bramkę, lecz jest faulowany. Przed tym jak piłka opuszcza rękę B2 rozlega się automatyczny sygnał kończący grę. Prawidłowa decyzja?
+a) Koniec meczu
+b) Rzut wolny dla drużyny B
+c) Rzut karny dla drużyny B
+d) Koniec meczu, opis sytuacji w protokole
+
+2.7
+Na krótko przed końcem I połowy meczu A9, wykonując rzut karny, trafia w poprzeczkę, następnie piłka wraca do bramkarza, który stoi w okolicach 3m przed bramką, odbija się od jego głowy i trafia do bramki. Automatyczny sygnał kończący I połowę rozlega się, kiedy piłka jest w powietrzu pomiędzy poprzeczką, a placami bramkarza. Prawidłowa decyzja?
+a) Bramka
+b) Rzut karny musi zostać powtórzony
+c) Przerwa w meczu; żadnych innych decyzji
+
+2.8
+Po zakończeniu czasu gry, rzut karny musi zostać wykonany. Sędziowie czekają na efekt rzutu. Który z sędziów powinien zakończyć mecz?
+a) Sędzia wpisany, jako pierwszy w protokole
+b) Jeden z sędziów
+c) Sędzia z pola gry
+d) Sędzia bramkowy
+
+2.9
+Kiedy rozpoczyna się mecz?
+a) Po gwizdku sędziego wpisanego na pierwszym miejscu w protokole
+b) Kiedy piłka opuści rękę zawodnika wykonującego rzut
+c) Kiedy mierzący czas uruchomi stoper lub automatyczny zegar
+d) Po sygnale gwizdkiem sędziego na wykonanie pierwszego rzutu rozpoczynającego grę
+
+2.10
+Kto decyduje, na którą bramkę będą wykonywane rzuty karne w celu wyłonienia zwycięzcy spotkania?
+a) Drużyna, która wygrała losowanie
+b) Drużyna, która przegrała losowanie
+c) Sędziowie
+d) Sędzia wpisany na pierwszym miejscu w protokole
+
+2.11
+Rzut wolny dla drużyny B musi zostać wykonany po sygnale gwizdka kończącym grę. Przed wykonaniem rzutu wolnego, A8 i A9 w tym samym momencie opuszczają boisko. Zostają zastąpieni najpierw przez A10 a zaraz potem przez A11. Prawidłowa decyzja?
+a) Mierzący czas przerywa grę i informuje sędziów o złej zmianie drużyny A
+b) 2-minutowe wykluczenie dla A10 z powodu złej zmiany
+c) 2-minutowe wykluczenie dla A11 z powodu złej zmiany
+d) Mierzący czas nie musi przerywać gry, nie było naruszenia przepisów
+e) A11 musi powrócić do strefy zmian, A8 lub A9 mogą powrócić na boisko
+
+2.12
+Na krótko przed końcem I połowy, A7 znieważa B5 i powoduje utratę sytuacji pewnej do zdobycia bramki. Automatyczny sygnał kończący grę rozlega się zanim sędziowie mogą zareagować. Prawidłowa decyzja?
+a) Koniec I połowy; bez kary progresywnej dla A7
+b) Koniec I połowy; bez rzutu wolnego ani rzutu karnego
+c) Dyskwalifikacja dla A7, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
+d) Rzut karny dla drużyny B
+e) Dyskwalifikacja dla A7 (czerwona kartka pokazana przez sędziów)
+
+2.13
+Do jakiego momentu sędziowie mogę anulować zdobytą bramkę?
+a) Do czasu gwizdka na wykonanie rzutu rozpoczynającego grę
+b) Do czasu gwizdka kończącego mecz
+c) Bramka musi być anulowana, jeśli została zdobyta po tym jak mierzący czas przerwał grę lub rzut rozpoczynający grę został wykonany zanim to przerwanie zostało zauważone
+d) Zdobyta bramka nigdy nie może być anulowana
+
+2.14
+Sędziowie przyznali rzut z linii bocznej dla drużyny A. W tym momencie osoba odpowiedzialna za drużynę A sygnalizuje zamiar wykorzystania przerwy dla drużyny. Które z poniższych stwierdzeń są prawdziwe?
+a) Zarządzenie przerwy dla drużyny nie jest możliwe, piłka jest poza grą
+b) Mierzący czas gwiżdże, zatrzymuje zegar i pokazuje sygnalizację numer 15
+c) Sędziowie potwierdzają przerwę dla drużyny A
+d) Sekretarz wpisuje do protokołu wykorzystanie przez drużynę przerwy w grze
+
+2.15
+W których z poniższych sytuacji zatrzymanie czasu gry jest obowiązkowe?
+a) Rzut karny
+b) 2-minutowe wykluczenie
+c) Wpływ czynników zewnętrznych
+d) Dyskwalifikacja
+
+2.16
+A9 rzuca na bramkę. Bramkarz B12 łapie piłkę. W tym samym momencie mierzący czas sygnalizuje koniec meczu. Sędziowie zwracają uwagę mierzącemu czas, że do rozegrania pozostało 30 sekund II połowy. Wszyscy zawodnicy pozostają na boisku. W jaki sposób gra powinna zostać wznowiona?
+a) Rzutem wolnym dla drużyny B
+b) Rzutem od bramki dla drużyny B
+c) Rzutem wolnym dla drużyny A
+d) Po sygnale gwizdkiem
+
+2.17
+Jaka jest prawidłowa decyzja w sytuacji, gdy w podstawowym czasie gry, mecz zakończył się wynikiem 20:20, a gra musi być kontynuowana do wyłonienia zwycięzcy?
+a) 1-minuta przerwy przed rozpoczęciem dogrywki
+b) 5-minut przerwy przed rozpoczęciem dogrywki
+c) 1-minuta przerwy między częściami dogrywki
+d) 5-minut przerwy między częściami dogrywki
+
+2.18
+W których z poniższych sytuacji zatrzymanie czasu gry jest obowiązkowe?
+a) 2-minutowe wykluczenie
+b) Rzut wolny
+c) Gra pasywna
+d) Błąd zmiany
+e) Upomnienie
+f) Rzut z linii bocznej
+
+2.19
+Kto NIE jest uprawniony do wykonywania rzutów karnych, w sytuacji, kiedy mecz jest nierozstrzygnięty po zakończeniu dogrywek?
+a) Zawodnik, który ubliża sędziom krótko po zakończeniu dogrywki
+b) Bramkarze
+c) Zawodnik, którego 2-minutowe wykluczenie nie zakończyło się przed końcem dogrywki
+d) Zawodnik zdyskwalifikowany
+e) Zawodnik, któremu została udzielona pomoc medyczna na boisku, ale jego drużyna nie przeprowadziła 3 ataków przed zakończeniem dogrywki
+
+2.20
+5 sekund przed końcem meczu, bramkarz A12 obronił rzut. Piłka dotknęła sufitu nad polem bramkowym. Automatyczny sygnał kończący grę rozległ się zaraz przed tym, jak drużyna B wykonała rzut z linii bocznej. Prawidłowa decyzja?
+a) Rzut z linii bocznej dla drużyny B po sygnale gwizdkiem
+b) Zatrzymanie czasu gry
+c) Koniec meczu
+d) Zaczekać na efekt rzut z linii bocznej, następnie zakończyć spotkanie
+
+2.21
+B8 został wcześniej upomniany słownie. W czasie przerwy dla drużyny, siedząc na ławce, w niesportowy sposób komentuje decyzje sędziów. Prawidłowa decyzja?
+a) Dyskwalifikacja dla B8 (czerwona kartka pokazana przez sędziów)
+b) 2-minutowe wykluczenie dla B8
+c) Upomnienie dla B8
+d) Brak możliwości ukarania zawodnika
+e) Drużyna B będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez 2 minuty od wznowienia gry po przerwie dla drużyny
+
+2.22
+Kto jest upoważniony do udziału w rzutach karnych decydujących o rozstrzygnięciu meczu?
+a) Wszyscy zawodnicy wpisani do protokołu
+b) Zawodnicy, którzy nie byli zdyskwalifikowani
+c) Zawodnicy, którzy nie odbywali 2-minutowego wykluczenia w momencie zakończania dogrywki
+d) Zawodnicy, którzy dostali pozwolenie od sędziów
+
+2.23
+Rzut wolny musi zostać wykonany po automatycznym sygnale kończącym grę. B9 zajmuje prawidłową pozycję i rzuca na bramkę drużyny A. Kiedy piłka opuszcza rękę B9 rozlega się sygnał gwizdkiem od mierzącego czas. Piłka wpada do bramki, bez możliwości obrony przez bramkarza A1. Mierzący czas informuje sędziów, że A7, który zajmował miejsce w obronie, w czasie, kiedy wykonywany był rzut wolny, zmienił się z A6 zaraz przed tym, jak rzut wolny został wykonany. Prawidłowa decyzja?
+a) 2-minutowe wykluczenie dla A7
+b) Dyskwalifikacja dla A7 (czerwona kartka pokazana przez sędziów)
+c) Bramka dla drużyny B
+d) Rzut karny dla drużyny B
+e) Powtórzyć rzut wolny dla drużyny B po sygnale gwizdkiem
+
+2.24
+Mecz jest nierozstrzygnięty po zakończeniu dogrywek, a regulamin wymaga przeprowadzenia procedury rzutów karnych. A7 został ukarany 2-minutowym wykluczeniem w 9 minucie ostatniej części dogrywki. Jest on wyznaczony przez osobę odpowiedzialną za drużynę do wykonywania rzutów karnych. Prawidłowa decyzja?
+a) A7 może wykonywać rzuty karne
+b) A7 nie może wykonywać rzutów karnych
+
+2.25
+Kiedy zatrzymanie czasu gry jest obowiązkowe?
+a) Kiedy osoba towarzysząca została ukarana 2-minutowym wykluczeniem
+b) Kiedy zawodnik został ukarany trzecim 2-minutowym wykluczeniem
+c) Po powtarzającym się niesportowym zachowaniu
+d) Kiedy sędziowie dokonują konsultacji, w celu podjęcia wspólnej decyzji
+e) Po szczególnie niesportowym zachowaniu
+f) Po karze upomnienia dla osoby towarzyszącej drużynie
+
+2.26
+Na krótko przed końcem I połowy A7 znieważa B5 i powoduje utratę sytuacji pewnej do zdobycia bramki. Automatyczny sygnał kończący grę rozlega się zanim sędziowie mogą zareagować. Prawidłowa decyzja?
+a) Koniec I połowy; brak dalszych decyzji
+b) Dyskwalifikacja dla A7, bez opisu w protokole (czerwona kartka pokazana przez sędziów)
+c) Rzut karny dla drużyny B
+d) Rzut wolny dla drużyny B
+e) Dyskwalifikacja dla A7, opis w protokole (czerwona i niebieska kartka pokazane przez sędziów)
+f) Drużyna A będzie grała na boisku w składzie pomniejszonym o 1 zawodnika przez pierwsze 2 minuty II połowy
+
+2.27
+Po sygnale gwizdkiem na przerwę w meczu, musi być wykonany rzut wolny. Którzy zawodnicy mogą zostać zmienieni?
+a) Wszyscy zawodnicy z obu drużyn
+b) Tylko zawodnicy z drużyny broniącej
+c) Tylko zawodnicy z drużyny wykonującej rzut
+d) 1 zawodnik z drużyny wykonującej rzut
+e) Zawodnik drużyny broniącej z pola gry na bramkarza, o ile w momencie sygnału końcowego, drużyna ta grała bez bramkarza
+
+2.28
+Jakie pozycje muszą zajmować zawodnicy w trakcie wykonania rzutu wolnego wykonywanego po sygnale gwizdka kończącym grę?
+a) Zawodnicy z drużyny wykonującej rzut muszą pozostawać poza linia rzutów wolnych przeciwnika
+b) Zawodnicy z drużyny wykonującej rzut muszą pozostawać na swojej połowie boiska
+c) Przeciwnicy muszą zachować odległość przynajmniej 3 metrów od zawodnika wykonującego rzut lub stać przy linii własnego pola bramkowego
+d) Zawodnicy z drużyny wykonującej rzut muszą zachować odległość przynajmniej 3 metrów od zawodnika wykonującego rzut
+e) Zawodnicy z drużyny wykonującej rzut mogą pozostawać przy zawodniku rzucającym, przy linii rzutów wolnych przeciwnika
+
+2.29
+A7 podaje do A8. W tym momencie mierzący czas sygnalizuje żądanie przerwy dla drużyny A. Sędziowie i zawodnicy nie słyszą gwizdka. A8 podaje do A10, który ma sytuację pewną do zdobycia bramki. A10 jest zatrzymany w nieprzepisowy sposób przez B5. Sędziowie decydują o rzucie karnym dla drużyny A i 2-minutowym wykluczeniu dla B5. W tym momencie sędziowie orientują się, że mierzący czas sygnalizował żądanie przerwy dla drużyny. Prawidłowa decyzja?
+a) Rzut karny dla drużyny A
+b) 2-minutowe wykluczenie dla B5
+c) Przerwa dla drużyny A
+d) Rzut od bramki dla drużyny B
+e) Wznowienie gry po sygnale gwizdkiem
+f) Wznowienie gry rzutem wolnym dla drużyny A, z miejsca gdzie zawodnik A7 był w momencie gwizdka mierzącego czas
+
+2.30
+Sygnał gwizdkiem kończący I połowę meczu rozległ się o 1 minutę za wcześnie. W momencie sygnału gwizdkiem, żadna z drużyn nie była w posiadaniu piłki i nie doszło do przekroczenia przepisów. Piłka leży na parkiecie w polu gry. Obie drużyny pozostają na boisku. Prawidłowa decyzja?
+a) 1 minuta nie jest rozgrywana
+b) 1 minuta jest rozgrywana przed przerwą w meczu
+c) 1 minuta jest rozgrywana, po przerwie w meczu, przed początkiem II połowy meczu
+d) 1 minuta jest dodana do czasu gry II połowy meczu
+e) Drużyna, która posiadała piłkę posiada ja nadal w momencie wznowienia gry
+f) Drużyna, która ostatnia była w posiadaniu piłki, ma piłkę, kiedy gra jest wznowiona
+
+2.31
+I połowa meczu zakończyła się 1 minutę za wcześnie. Nie doszło do przekroczenia przepisów, w momencie gwizdka piłka była w powietrzu nad polem bramkowym. Po sygnale gwizdkiem piłka wychodzi poza pole bramkowe. Obie drużyny pozostają na boisku. Prawidłowa decyzja?
+a) 1 minuta nie jest dogrywana
+b) 1 minuta jest dogrywana przed przerwą w meczu
+c) 1 minuta jest dogrywana po przerwie w meczu a przed początkiem II połowy
+d) 1 minuta jest dodana do czasu gry drugiej połowy meczu
+e) Drużyna, która ostatnia była w posiadaniu piłki, wznawia grę
+
+2.32
+I połowa meczu zakończyła się 1 minutę za wcześnie. Nie doszło do przekroczenia przepisów, w momencie gwizdka piłka była w powietrzu nad polem bramkowym. Po sygnale gwizdkiem piłka opuściła boisko poza linią końcową boiska. Obie drużyny pozostają na boisku. Prawidłowa decyzja?
+a) 1 minuta nie jest rozgrywana
+b) 1 minuta jest rozgrywana przed przerwą w meczu.
+c) 1 minuta jest rozgrywana po przerwie w meczu a przed początkiem II połowy
+d) 1 minuta jest dodana do czasu gry II połowy meczu
+e) Drużyna, która ostatnia była w posiadaniu piłki, wznawia grę
+f) Gra jest wznawiana rzutem od bramki
+
+2.33
+Drużyny A zdobyła bramkę i drużyna B chce szybko wykonać rzut rozpoczynający grę. B5 kozłuje piłkę biegnąc do linii środkowej boiska. Zawodnik A3 wybija mu piłkę otwartą dłonią, tak, że piłka odbija się od stopy B5 i toczy daleko od linii środkowej boiska. Prawidłowa decyzja?
+a) Zatrzymanie czasu gry
+b) Rzut rozpoczynający grę dla drużyny B
+c) Kara progresywna dla A3
+d) Rzut wolny dla drużyny A
+e) Natychmiastowe 2 minutowe wykluczenie A3
+
+2.34
+W których z poniższych sytuacji zatrzymanie czasu gry NIE jest obowiązkowe?
+a) Piłka odbija się daleko poza boisko
+b) Gwizdek mierzącego czas
+c) Zawodnik wydaje się kontuzjowany
+d) Sędziowie konsultują się po zasygnalizowaniu rozbieżnych decyzji
+e) Zmiana zawodnika z pola gry z bramkarzem w celu wykonania rzutu od bramki
+
+2.35
+Kto może zasygnalizować zamiar wykorzystania przerwy dla drużyny?
+a) Jedna z osób towarzyszących
+b) Zawodnik
+c) Tylko osoba odpowiedzialna za drużynę
+d) Kapitan drużyny
+
+2.36
+Które z poniższych stwierdzeń odnośnie przerwy dla drużyny są prawdziwe?
+a) Zasygnalizować zamiar wykorzystania przerwy dla drużyny może tylko osoba odpowiedzialna za drużynę
+b) Jeśli zamiar wykorzystania przerwy dla drużyny jest sygnalizowany w momencie, kiedy drużyna przeciwna jest w posiadaniu piłki, mierzący czas musi zwrócić zieloną kartę osobie towarzyszącej
+c) Czas przerwy dla drużyny rozpoczyna się w momencie gwizdka mierzącego czas
+d) Naruszenia przepisów w trakcie przerwy dla drużyny mają takie same konsekwencje jak te w trakcie czasu gry
+e) Grę po przerwie dla drużyny zawsze rozpoczyna drużyna, która zażądała tej przerwy
+
+2.37
+Drużyny A jest w posiadaniu piłki. Osoba towarzysząca drużynie B sygnalizuje zamiar wykorzystania przerwy dla drużyny przez położenie zielonej kartki na stoliku sędziowskim przed mierzącym czas. Prawidłowa decyzja?
+a) Zielona kartka pozostaje na stoliku sędziowskim
+b) Mierzący czas gwiżdże, kiedy tylko drużyny B wejdzie w posiadanie piłki
+c) Mierzący czas oddaje zieloną kartkę osobie towarzyszącej
+d) Tylko osoba odpowiedzialna za drużynę może zasygnalizować zamiar wykorzystania przerwy dla drużyny
+
+2.38
+B3 próbuje rzucić na bramkę. Piłka, bez kontaktu z innym zawodnikiem, zatrzymuje się na parkiecie w polu bramkowym A. W tym momencie osoba odpowiedzialna za drużynę B sygnalizuje zamiar wykorzystania czasu dla drużyny. Prawidłowa decyzja?
+a) Mierzący czas gwiżdże, zatrzymuje czas gry i wskazuje sędziom, że drużyna B ma zamiar wykorzystać przerwę dla drużyny
+b) Mierzący czas oddaje zieloną kartkę osobie towarzyszącej drużyny B
+c) Gra jest wznawiana rzutem wolnym dla drużyny B
+d) Rzut od bramki dla drużyny A
+
+2.39
+Bramkarz A1 podaje do A8, który znajduje przy linii pola bramkowego drużyny B sam na sam z bramkarzem B12. Na krótko przed tym, jak A8 dostaje piłkę rozlega się sygnał gwizdkiem od mierzącego czas. Osoba towarzysząca drużynie A zasygnalizowała żądanie przerwy dla drużyny. W jaki sposób gra powinna być kontynuowana?
+a) Rzutem wolnym dla drużyny A przed polem bramkowym drużyny A
+b) Rzutem wolnym dla drużyny A z linii strefy zmian drużyny A
+c) Rzutem karny dla drużyny A
+d) Rzutem wolnym dla drużyny A przy linii rzutów wolnych drużyny B
+
+2.40
+Zawodnik A1 blokuje rzut B11. Piłka dotyka sufitu nad polem bramkowym. Zaraz potem, osoba towarzysząca drużynie B kładzie zieloną kartkę na stoliku sędziowskim przed mierzącym czas. Prawidłowa decyzja?
+a) Drużynie B natychmiast zostaje przyznana przerwa dla drużyny
+b) Drużynie B nie zostaje przyznana przerwa dla drużyny, ponieważ piłka dotknęła sufitu
+c) Drużynie B nie zostaje przyznana przerwa dla drużyny, ponieważ to drużyna A jest w posiadaniu piłki
+d) Drużynie B zostaje przyznana przerwa dla drużyny, ale dopiero po wznowieniu gry
+
+2.41
+Drużyna A jest w posiadaniu piłki i sygnalizuje chęć wykorzystania przerwy dla drużyny. Z powodu hałasu sędziowie na boisku nie słyszą gwizdka mierzącego czas. Dopiero po 10 sekundach, kiedy zawodnik drużyny B jest w posiadaniu piłki, do sędziów dociera sygnał od stolika. Prawidłowa decyzja?
+a) Drużynie A zostaje przyznana przerwa dla drużyny
+b) Gra jest wznawiana rzutem wolnym dla drużyny B
+c) Drużynie A nie zostaje przyznana przerwa dla drużyny
+d) Gra jest wznawiana rzutem wolnym dla drużyny A
+
+2.42
+W 78:00 minucie meczu zawodnik A7 zostaje ukarany 2-minutowym wykluczeniem Mecz jest nierozstrzygnięty po zakończeniu dogrywek, regulamin wymaga przeprowadzenia procedury rzutów karnych. A7 jest wyznaczony przez osobę odpowiedzialną za drużynę do wykonywania rzutów karnych. A7 wykonuje rzut karny i zdobywa bramkę. Prawidłowa decyzja?
+a) Bramka jest uznana, A7 może wykonywać rzuty karne
+b) Bramka nie jest uznana, A7 nie może wykonywać rzutów karnych
+c) Rzut jest potraktowany jako niecelny
+d) Dyskwalifikacja dla A7
+
+2.43
+W 55:00 minucie meczu osoba odpowiedzialna za drużynę A zasygnalizowała zamiar wykorzystania drugiej przerwy dla drużyny. W 59:00 minucie meczu osoba odpowiedzialna za drużynę A zasygnalizowała zamiar wykorzystania trzeciej przerwy dla drużyny. Prawidłowa decyzja?
+a) Przerwa dla drużyny jest możliwa
+b) Przerwa dla drużyny nie jest możliwa
+
+2.44
+Drużyna A jest w ataku. Osoba towarzysząca drużynie A zasygnalizowała zamiar wykorzystania przerwy dla drużyny kładąc zieloną kartę przed mierzącym czas. Zielona kartka leży na stoliku sędziowskim przed mierzącym czas. W tym momencie A4 rzuca na bramkę i trafia. Mierzący czas gwiżdże, żeby przyznać przerwę dla drużyny w momencie, kiedy piłka jest w bramce drużyny B. Prawidłowa decyzja?
+a) Bramka dla drużyny A
+b) Bramka nie jest uznana, ponieważ drużyny A zasygnalizowała zamiar wykorzystania przerwy dla drużyny
+c) Przerwa dla drużyny A
+d) Przerwa dla drużyny nie jest możliwa, bo drużyna A nie jest w posiadaniu piłki
+e) Zielona kartka musi zostać zwrócona drużynie A
+f) Rzut rozpoczynający grę dla drużyny B
+
+2.45
+Drużyna A wykorzystała drugą przerwę dla drużyny w 55:10 minucie meczu. W 59:25 minucie osoba towarzysząca drużynie A zasygnalizowała zamiar wykorzystania przerwy dla drużyny kładąc zielona kartkę przed mierzącym czas. Drużyna A jest w posiadaniu piłki. Mierzący czas gwiżdże i zatrzymuje czas gry. Sygnalizuje przerwę dla drużyny A. Prawidłowa decyzja?
+a) Przerwa dla drużyny A
+b) Przerwa dla drużyny nie jest możliwa
+c) Kara progresywna dla osoby towarzyszącej drużyny A
+d) Gra jest wznawiana rzutem wolnym dla drużyny A
+e) Gra jest wznawiana rzutem wolnym dla drużyny B
+
+2.46
+Drużyna A zasygnalizowała zamiar wykorzystania przerwy dla drużyny. Osoba towarzysząca drużynie A kładzie zieloną kartkę na stoliku sędziowskim przed mierzącym czas. W tym momencie A9 rzuca na bramkę. Mierzący czas gwiżdże, żeby przyznać przerwę dla drużyny w momencie, kiedy piłka jest w locie do bramki. Zaraz po gwizdku bramkarz B12 łapie piłkę. Prawidłowa decyzja?
+a) Przerwa dla drużyny nie jest możliwa, bo drużyna A nie jest w posiadaniu piłki
+b) Przerwa dla drużyny A
+c) Zielona kartka musi zostać zwrócona drużynie A
+d) Gra jest wznawiana rzutem od bramki dla drużyny B
+e) Gra jest wznawiana rzutem wolnym dla drużyny A
+
+2.47
+Drużyna A zasygnalizowała zamiar wykorzystania przerwy dla drużyny. Osoba towarzysząca drużynie A kładzie zieloną kartkę na stoliku sędziowskim przed mierzącym czas. Zanim mierzący czas gwiżdże, żeby przyznać przerwę dla drużyny, A9 rzuca na bramkę. Rzut został obroniony przez bramkarza B12, a mierzący czas gwiżdże w momencie, kiedy piłka toczy się w polu bramkowym. Prawidłowa decyzja?
+a) Przerwa dla drużyny nie jest możliwa, bo drużyna A nie jest w posiadaniu piłki
+b) Przerwa dla drużyny A
+c) Zielona kartka musi zostać zwrócona drużynie A
+d) Gra jest wznawiana rzutem od bramki dla drużyny B
+e) Gra jest wznawiana rzutem wolnym dla drużyny A
+f) Gra jest wznawiana rzutem wolnym dla drużyny B
+
+2.48
+Drużyna A zasygnalizowała zamiar wykorzystania przerwy dla drużyny. Osoba towarzysząca drużynie A kładzie zieloną kartkę na stoliku sędziowskim przed mierzącym czas. Zanim mierzący czas gwiżdże, żeby przyznać przerwę dla drużyny, A9 rzuca na bramkę. Rzut został obroniony przez bramkarza B12, a mierzący czas gwiżdże w momencie, kiedy piłka jest w powietrzu nad polem bramkowym. Prawidłowa decyzja?
+a) Przerwa dla drużyny nie jest możliwa, bo drużyna A nie jest w posiadaniu piłki
+b) Przerwa dla drużyny A
+c) Zielona kartka musi zostać zwrócona drużynie A
+d) Gra jest wznawiana rzutem od bramki dla drużyny B
+e) Gra jest wznawiana rzutem wolnym dla drużyny A
+
+2.49
+Drużyna A zasygnalizowała zamiar wykorzystania przerwy dla drużyny. Osoba towarzysząca drużynie A kładzie zieloną kartkę na stoliku sędziowskim przed mierzącym czas. Zanim mierzący czas gwiżdże, żeby przyznać przerwę dla drużyny, A11 popełnia faul w ataku. Mierzący czas gwiżdże, żeby przyznać przerwę dla drużyny, zanim sędziowie decydują o faulu w ataku. Prawidłowa decyzja?
+a) Sędziowie decydują, że przerwa dla drużyny nie jest możliwa, bo faul w ataku nastąpił zanim mierzący czas zagwizdał, żeby przyznać przerwę dla drużyny
+b) Przerwa dla drużyny A
+c) Zielona kartka musi zostać zwrócona drużynie A
+d) Gra jest wznawiana rzutem wolnym dla drużyny B
+e) Gra jest wznawiana rzutem wolnym dla drużyny A
+
+2.50
+W meczu stosowany jest system elektronicznego żądania przerwy dla drużyny (buzzer). Drużyna BIAŁYCH miała drugą przerwę na żądanie w czasie 55:10. W 59:35 osoba towarzysząca drużyny BIAŁYCH chce poprosić o trzecią przerwę na żądanie dla swojej drużyny i aktywuje sygnał dźwiękowy przerwy na żądanie. Piłka jest w grze i drużyna BIAŁYCH jest w posiadaniu piłki. Rozbrzmiewa sygnał zegara publicznego i zegar zostaje zatrzymany. Jaka jest właściwa decyzja?
+a) Przerwa dla drużyny BIAŁYCH
+b) Przerwa dla drużyny nie jest przyznana
+c) Kara progresywna dla oficjela A drużyny BIAŁYCH
+d) Mecz zostaje wznowiony rzutem wolnym dla drużyny BIAŁYCH
+e) Mecz zostaje wznowiony rzutem wolnym dla drużyny CZARNYCH
+f) Drużyna CZARNYCH może wybierać pomiędzy rzutem wolnym a rzutem karnym.
+
+2.51
+W meczu stosowany jest system elektronicznego żądania przerwy dla drużyny (buzzer). Drużyna BIAŁYCH jest w posiadaniu piłki. W 58:40 BIAŁY 7 popełnia faul w ataku. Zanim sędziowie zdążyli odgwizdać faul w ataku, rozbrzmiewa sygnał zegara publicznego, ponieważ Osoba towarzysząca A drużyny BIAŁYCH włączyła sygnał dźwiękowy przerwy na żądanie dla drużyny, prosząc o przerwę dla drużyny. Natychmiast po tym sędziowie gwiżdżą faul w ataku BIAŁY 7. Jaka jest właściwa decyzja?
+a) Przerwa dla drużyny nie jest możliwa, ponieważ drużyna BIAŁYCH nie jest już w posiadaniu piłki.
+b) Przerwa dla drużyny BIAŁYCH.
+c) Drużyna BIAŁYCH straci jedną przerwę na żądanie
+d) Mecz zostaje wznowiony rzutem wolnym dla drużyny CZARNYCH
+e) Mecz zostaje wznowiony rzutem wolnym dla drużyny BIAŁYCH
+f) Mecz zostaje wznowiony rzutem karnym dla drużyny CZARNYCH
+g) Drużyna CZARNYCH może wybierać pomiędzy rzutem wolnym a rzutem karnym
+h) Kara progresywna dla osoby towarzyszącej A drużyny BIAŁYCH.
+
+2.52
+W meczu stosowany jest system elektronicznego żądania przerwy dla drużyny (buzzer). W 29:50 pierwszej połowy meczu BIAŁY 9 oddaje rzut na bramkę. Rzut zostaje obroniony przez bramkarza CZARNY 12, a po obronie piłka jest w powietrzu nad polem bramkowym. W tym momencie rozbrzmiewa sygnał zegara publicznego, ponieważ osoba towarzysząca A drużyny CZARNYCH włączyła brzęczyk, prosząc o przerwę dla drużyny. Jaka jest właściwa decyzja?
+a) Przerwa dla drużyny nie jest możliwa, ponieważ drużyna CZARNYCH nie jest w posiadaniu piłki
+b) Przerwa dla drużyny CZARNYCH
+c) Drużyna CZARNYCH straci jedną przerwę na żądanie
+d) Mecz zostaje wznowiony rzutem od bramki dla drużyny CZARNYCH
+e) Mecz zostaje wznowiony rzutem wolnym dla drużyny BIAŁYCH
+f) Mecz zostaje wznowiony rzutem wolnym dla drużyny CZARNYCH
+g) Drużyna BIAŁYCH może wybrać pomiędzy rzutem karnym a rzutem wolnym
+h) Mecz zostaje wznowiony rzutem karnym dla drużyny BIAŁYCH
+i) Kara progresywna dla osoby towarzyszącej A drużyny CZARNYCH.
+
+2.53
+Drużyna CZARNYCH atakuje. Sędziowie pokazują sygnalizację ostrzegawczą o grze pasywnej. Po dwóch podaniach delegat gwiżdże, ponieważ osoba towarzysząca A drużyny CZARNYCH poprosił o przerwę dla drużyny. Ani sędziowie, ani zawodnicy nie słyszą gwizdka i gra toczy się dalej. Czwarte podanie drużyny CZARNYCH trafia do skrzydłowego, który znajduje się w sytuacji pewnej do zdobycia bramki. Skrzydłowy zawodnik skacze, aby oddać rzut na bramkę. Robiąc to, zostaje popychany przez BIAŁY 4 i częściowo traci kontrolę nad ciałem. Bramkarz broni rzut. Dopiero w tym momencie sędziowie i zawodnicy dowiadują się, że delegat przerwał mecz ze względu na prośbę drużyny o przerwę na żądanie. Jaka jest właściwa decyzja?
+a) Przerwa dla drużyny CZARNYCH.
+b) Mecz zostaje wznowiony rzutem wolnym dla drużyny CZARNYCH.
+c) Mecz zostaje wznowiony rzutem karnym dla drużyny CZARNYCH.
+d) 2-minutowe wykluczenie dla BIAŁY 4.
+e) Bez kary.
+f) Sygnalizacja ostrzegawcza o grze pasywnej jest nadal aktualna – drużyna CZARNYCH wykonała dwa podania.
+g) Sygnalizacja ostrzegawcza o grze pasywnej jest nadal aktualna – drużyna CZARNYCH wykonała cztery podania.
+h) Sygnalizacja ostrzegawcza o grze pasywnej nie jest nadal aktualna, ponieważ BIAŁY 4 zostaje ukarany 2-minutowym wykluczeniem.
+
+2:54
+Drużyna BIAŁYCH rzuca na bramkę. Bramkarz CZARNY 1 broni rzut. Piłka odbija się w polu bramkowym, gdy osoba towarzysząca A drużyny BIAŁYCH prosi o przerwę dla drużyny, kładąc zieloną kartkę przed sędzią mierzącym czas. Sędzia mierzący czas gwiżdże, gdy piłka wciąż odbija się w polu bramkowym, ale piłka jest bardzo blisko BIAŁY 13, który jest zupełnie sam tuż za polem bramkowym. Jaka jest właściwa decyzja?
+a) Przerwa dla drużyny BIAŁYCH.
+b) Nie jest możliwa przerwa na żądanie dla drużyny, a zielona kartka zostaje zwrócona oficjelowi drużyny A z drużyny BIAŁYCH.
+c) Rzut wolny dla drużyny BIAŁYCH.
+d) Rzut od bramki dla drużyny CZARNYCH.
+e) Rzut wolny dla drużyny CZARNYCH.
+f) Rzut karny dla drużyny BIAŁYCH.

@@ -1,0 +1,103 @@
+10.1
+Drużyny A wygrała losowanie i wybrała rozpoczęcie meczu. Osoba reprezentująca drużynę B chce zmienić strony boiska. Prawidłowa decyzja?
+a) Zmiana stron
+b) Zamiana stron, jeśli drużyny A wyrazi zgodę
+c) Powtórzyć losowanie
+d) Nie zmieniać stron
+
+10.2
+Drużyny A wygrała losowanie i chce zmienić strony boiska. Drużyna B chce, aby drużyna A rozpoczynała mecz. Prawidłowa decyzja?
+a) Mecz rozpoczyna drużyna A
+b) Zmiana stron i mecz rozpoczyna drużyna B
+c) Powtórzyć losowanie
+d) Osoby reprezentujące drużyny muszą dojść do porozumienia
+
+10.3
+(Bez pola wznowienia gry.) Z którego miejsca można wykonać rzut rozpoczynający grę?
+a) Stojąc do 3 metrów przed linią środkową, na swojej połowie boiska
+b) Stojąc do 3 metrów za linią środkową, na połowie boiska przeciwnika
+c) Na linii środkowej boiska z jedną stopą na linii i drugą stopą na lub poza linią po swojej stronie boiska, z tolerancją w kierunku linii bocznych 1,5m
+
+10.4
+(Bez pola wznowienia gry.) Na krótko przed końcem meczu jest remis 15:15. Drużyna B zdobywa bramkę i jest 15:16. Drużyny A chce szybko wykonać rzut rozpoczynający grę. Zawodnik drużyny A stoi z piłką przy linii środkowej boiska z jedną stopą przed linią i drugą stopą za tą linią. Prawidłowa decyzja?
+a) Korekta ustawienia; sygnał gwizdkiem na wykonywanie rzutu rozpoczynającego grę
+b) Ustawienie jest prawidłowe; sygnał gwizdkiem na wykonywanie rzutu rozpoczynającego grę
+c) Zatrzymanie czasu gry; korekta ustawienia; sygnał gwizdkiem na wykonywanie rzutu rozpoczynającego grę
+
+10.5
+Drużyny A wykonuje rzut rozpoczynający grę. Bramkarz B15 nie zajął jeszcze miejsca w swojej bramce. Sędzia z pola gry gwiżdże na rozpoczęcie meczu, A9 natychmiast rzuca i zdobywa bramkę. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny A z linii środkowej boiska
+b) Powtórzyć rzut rozpoczynający grę
+c) Bramka dla drużyny B
+d) Rzut wolny dla drużyny B
+
+10.6
+(Bez pola wznowienia gry.) Które z poniższych stwierdzeń odnośnie rzutu rozpoczynającego grę są prawdziwe?
+a) Rzut rozpoczynający grę musi być wykonany ze środka boiska w ciągu 3 sekund po sygnale gwizdkiem i musi być wykonany w kierunku połowy boiska przeciwnika
+b) Można zdobyć bramkę bezpośrednio z rzutu rozpoczynającego grę
+c) Nieprawidłowe ustawienie obrońców MUSI być skorygowane
+d) Jeśli zawodnik wykonujący rzut rozpoczynający grę kozłuje piłkę po tym, jak sędziowie dali sygnał na wykonanie rzutu, należy podyktować rzut wolny dla przeciwnika
+e) Zawodnicy z drużyny wykonującego rzut mogą przekroczyć linię środkową boiska, zanim rzut został wykonany
+
+10.7
+(Bez pola wznowienia gry.) B6 jest gotowy do wykonania rzutu rozpoczynającego grę stojąc jedną nogą na linii środkowej boiska, a drugą na własnej połowie. Sędzia daje sygnał gwizdkiem na wykonanie rzutu. B6 przekracza linię środkową, zanim piłka opuszcza jego rękę. W chwili gwizdka sędziego niektórzy zawodnicy drużyny A nadal znajdują się na połowie drużyny B. Prawidłowa decyzja?
+a) Brak reakcji
+b) Rzut wolny dla drużyny A
+c) Skorygować pozycję zawodników drużyny A, powtórzyć rzut rozpoczynający grę dla drużyny B po sygnale gwizdkiem
+d) Skorygować pozycję B6, powtórzyć rzut wolny dla drużyny B po sygnale gwizdkiem
+
+10.8
+(Z polem wznowienia gry.) Drużyna A zdobyła bramkę. Drużyna B chce szybko rozpocząć grę. B9 zajmuje prawidłową pozycję w polu wznowienia gry. Po tym, jak sędziowie gwizdnęli na wykonanie rzutu, B9 wykonuje 6 kroków z piłką w polu wznowienia gry. W ciągu 3 sekund po sygnale gwizdkiem na wykonanie rzutu rozpoczynającego, B9 wrzuca piłkę do pustej bramki drużyny A. Prawidłowa decyzja?
+a) Bramka dla drużyny CZARNYCH
+b) Rzut wolny dla drużyny BIAŁYCH
+c) Korekta i wznowienie gry po sygnale gwizdkiem sędziów.
+
+10.9
+(Z polem wznowienia gry) Drużyna A zdobyła bramkę. Drużyna B chce szybko rozpocząć grę. B9 otrzymuje piłkę. Trzyma piłkę i jedną nogę całkowicie w polu rzutu. Druga noga znajduje się poza polem wznowienia gry. Sędziowie gwiżdżą na wykonanie rzutu. Zanim B9 przestawił drugą nogę do pola wznowienia gry, wrzuca piłkę do pustej bramki drużyny A. Prawidłowa decyzja?
+a) Bramka dla drużyny B.
+b) Rzut wolny dla drużyny A.
+c) Korekta, rzut rozpoczynający grę dla drużyny B po sygnale gwizdkiem sędziów.
+d) Rzut zostaje wykonany prawidłowo, gdyż sędziowie zatwierdzili pozycję rzucającego, dając sygnał gwizdkiem na wykonanie rzutu.
+
+10.10
+(Z polem wznowienia gry.) Drużyna B chce wykonać szybki rzut rozpoczynający grę z pola wznowienia gry. W tym samym czasie, gdy B8 ma jedną nogę w polu wznowienia, a piłka również znajduje się całkowicie w polu wznowienia gry, zawodnik A7 również znajduje się w polu rzutu, biegnąc w kierunku własnej bramki. Ponieważ w kierunku A7 nie ma żadnych zawodników, B8 rzuca piłkę w tył BIAŁY 7. BIAŁY 7 znajduje się w polu rzutu, gdy piłka go uderza. Jaka jest właściwa decyzja?
+a) Rzut wolny dla drużyny A
+b) Rzut wolny dla drużyny B
+c) Rzut karny dla drużyny B
+d) Kara progresywna dla A7
+e) Kara progresywna dla B8
+f) Bezpośrednie 2-minutowe wykluczenie dla B8
+
+10.11
+(Z polem wznowienia gry) Które z poniższych stwierdzeń dotyczących pola wznowienia gry są nieprawidłowe?
+a) Sygnał gwizdkiem na wykonanie rzutu rozpoczynającego grę może zostać dany, gdy część ciała zawodnika wykonującego rzut znajduje się w polu wznowienia gry.
+b) Nie ma żadnych ograniczeń dotyczących pozycji innych zawodników z drużyny rzucającego podczas wykonywania rzutu rozpoczynającego grę.
+c) W trakcie wykonywania rzutu rozpoczynającego grę, zawodnik wykonujący rzut może wyjść poza obszar pola wznowienia gry.
+d) Po wykonaniu rzutu rozpoczynającego grę zawodnik drużyny broniącej może przechwycić piłkę, nawet jeśli ta nadal znajduje się w polu wznowienia gry.
+e) Zawodnikowi wykonującemu rzut rozpoczynający grę nie wolno kozłować piłki po sygnale gwizdkiem nakazującym wykonanie rzutu.
+
+10.12
+(Z polem wznowienia gry.) Drużyna A gra z 7-ma zawodnikami na boisku i zdobywa bramkę. Drużyna B chce szybko rozpocząć grę. Zawodnik B6 stoi jedną nogą w polu wznowienia gry i trzyma piłkę, która również znajduje się w tym polu. Sędziowie gwiżdżą na wykonanie rzutu. Zawodnia A8 wyraźnie wchodzi do pola wznowienia gry i aktywnie przeszkadza rękami próbując zablokować wykonanie rzutu rozpoczynającego grę. Mimo to zawodnik B6, który całym ciałem wraz z piłką znajduje się w polu wznowienia gry, wykonuje rzut rozpoczynający grę jako rzut na pustą bramkę. Piłka przekracza zewnętrzną linię końcową. Prawidłowa decyzja?
+a) Rzut od bramki dla drużyny A.
+b) Powtórzyć rzut rozpoczynający grę po sygnale gwizdkiem sędziego.
+c) Rzut wolny dla drużyny B.
+d) Rzut karny dla drużyny B.
+e) Zatrzymanie czasu gry.
+f) Kara progresywna dla A8.
+g) Bezpośrednie 2-minutowe wykluczenie dla A8.
+h) Dyskwalifikacja dla A8 (czerwona kartka pokazana przez sędziów).
+
+10.13
+(Z polem wznowienia gry.) Które z poniższych stwierdzeń dotyczących pola wznowienia gry są prawidłowe?
+a) Rzut musi być wykonany w ciągu 3 sekund od sygnału gwizdkiem sędziego na jego wykonanie.
+b) Rzutem rozpoczynającym grę można zdobyć bramkę dla drużyny wykonującej ten rzut. 
+c) W przypadku wykonywania rzutu rozpoczynającego grę należy skorygować nieprawidłowe ustawienie zawodników drużyny broniącej. 
+d) Jeśli po sygnale sędziego na wykonanie rzutu rozpoczynającego, zawodnik podskoczy to prawidłową decyzją jest rzut wolny dla przeciwnika. 
+e) Zawodnicy z drużyny zawodnika wykonującego rzut rozpoczynający grę nie mogą przekraczać linii środkowej boiska przed sygnałem gwizdkiem sędziego na wykonanie rzutu. 
+
+10.14
+(Z polem wznowienia gry.) Kiedy sędzia może dać sygnał gwizdkiem na wykonanie rzutu rozpoczynającego grę?
+a) Gdy zawodnik wykonujący rzut stoi co najmniej jedną nogą w polu wznowienia gry, piłka znajduje się w polu wznowienia gry, a druga noga nie znajduje się poza polem wznowienia gry na połowie przeciwnika. 
+b) Gdy zawodnik wykonujący rzut stoi co najmniej jedną nogą w polu wznowienia gry, a druga noga nie znajduje się poza polem wznowienia gry na połowie przeciwnika, ale piłka nie znajduje się w polu wznowienia gry. 
+c) Gdy zawodnik wykonujący rzut stoi co najmniej jedną nogą w polu wznowienia gry, a druga noga znajduje się poza polem wznowienia gry na połowie przeciwnika. 
+d) Gdy zawodnik wykonujący rzut stoi co najmniej jedną nogą w polu wznowienia gry, piłka znajduje się w polu wznowienia gry, jego druga noga nie znajduje się poza polem wznowienia gry na połowie przeciwnika, ale zawodnicy z drużyny wykonującego rzut znajdują się w polu wznowienia na połowie przeciwnika.

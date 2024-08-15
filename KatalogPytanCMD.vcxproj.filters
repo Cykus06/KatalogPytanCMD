@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów\pytania">
+      <UniqueIdentifier>{8a41d595-d74e-48e1-8e89-4dd46c3d99a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\odpowiedzi">
+      <UniqueIdentifier>{bfd212e8-9b4a-4466-8af4-6d5712dd8d4d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Question.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Answer.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Option.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Interface.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="1.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="2.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="3.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="4.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="5.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="6.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="7.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="8.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="9.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="10.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="11.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="12.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="13.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="14.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="15.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="16.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="17.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="18.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="pytania.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="RSZ.txt">
+      <Filter>Pliki zasobów\pytania</Filter>
+    </Text>
+    <Text Include="odpowiedzi.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="2_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="3_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="4_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="5_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="6_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="7_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="8_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="9_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="10_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="11_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="12_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="13_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="14_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="15_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="16_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="17_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="18_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="RSZ_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+    <Text Include="1_odp.txt">
+      <Filter>Pliki zasobów\odpowiedzi</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Question.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Answer.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Option.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz.h">
+      <Filter>Pliki zasobów</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

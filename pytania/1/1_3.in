@@ -1,0 +1,11 @@
+ID:			1.3
+question:	Jak szeroka jest linia bramkowa pomiêdzy s³upkami?
+answer:		5 cm
+value:		0
+answer:		6 cm
+value:		0
+answer:		8 cm
+value:		1
+answer:		10 cm
+value:		0
+rule:		1:3

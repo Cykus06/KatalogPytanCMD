@@ -1,0 +1,69 @@
+17.1
+Sędziowie sygnalizują rzut z linii bocznej, ale ich sygnalizacje wskazujące na to, która drużyna powinna wznowić grę, są rozbieżne. Prawidłowa decyzja?
+a) Decyduje sędzia z pola gry.
+b) Decyduje sędzia bramkowy.
+c) Po krótkiej konsultacji sędziowie powinni podjąć wspólna decyzję.
+d) Zatrzymanie czasu gry.
+e) Rzut z linii bocznej na sygnał gwizdkiem, bez zatrzymania czasu gry.
+
+17.2
+Automatyczny sygnał kończący grę nie działa. Mierzący czas nie zauważa tego, przez co nie reaguje, kiedy czas gry dobiega końca. Kto powinien dać sygnał na zakończenie meczu?
+a) Tylko sekretarz.
+b) Tylko sędzia z pola gry.
+c) Tylko delegat.
+d) Jeden z sędziów.
+e) Tylko mierzący czas.
+f) Mierzący czas lub delegat lub jeden z sędziów
+
+17.3
+Zawodnik B2 naruszył przepisy. Sędzia z pola gry decyduje o dyskwalifikacji dla B2 (czerwona kartka pokazana przez sędziów) i rzucie wolnym dla drużyny A. Sędzia bramkowy decyduje o 2-minutowym wykluczeniu dla B2 i rzucie karnym dla drużyny A. W jaki sposób będzie ukarany B2 i jak gra będzie wznowiona?
+a) 2-minutowe wykluczenie dla B2.
+b) Dyskwalifikacja dla B2 (czerwona kartka pokazana przez sędziów).
+c) Rzut wolny dla drużyny A.
+d) Rzut karny dla drużyny A.
+
+17.4
+Kto w razie wątpliwości decyduje o prawidłowości pomiaru czasu gry?
+a) Mierzący czas i sekretarz.
+b) Sędziowie prowadzący grę podejmują wspólną decyzję.
+c) Mierzący czas.
+d) Sędziowie prowadzący i mierzący czas podejmują wspólną decyzję.
+
+17.5
+Które kary muszą być opisane w protokole?
+a) Wszystkie dyskwalifikacje, poza tymi w konsekwencji trzeciej kary 2-minutowego wykluczenia.
+b) Wszystkie kary, poza upomnieniami słownymi.
+c) Wszystkie kary wykluczenia i wszystkie dyskwalifikacje.
+d) Dyskwalifikacje za niebezpieczne faule lub szczególnie niesportowe zachowanie w ostatnich 30 sekundach meczu, jeśli akcja ma na celu powstrzymanie przeciwnika przed uzyskaniem sytuacji pewnej do zdobycia bramki.
+e) Dyskwalifikacje za wybitnie niesportowe zachowanie.
+f) Każda kara progresywna w ostatnich 30 sekundach meczu, jeśli ukarana akcja ma na celu powstrzymanie przeciwnika przed uzyskaniem sytuacji pewnej do zdobycia bramki
+
+17.6
+Kto jest uprawniony do komunikowania się z sędziami w trakcie meczu?
+a) Każdy zawodnik.
+b) Każda z osób towarzyszących drużynie.
+c) Tylko osoba odpowiedzialna za drużynę.
+d) Kapitan drużyny.
+
+17.7
+Sędziowie mają różne zdanie na temat pozostałego czasu gry. Sędzia bramkowy (wymieniony jako pierwszy w protokole) twierdzi, że pozostało jeszcze 50 sekund meczu, sędzia z pola gry uważa, że 42 sekundy. Prawidłowa decyzja?
+a) Dogrywany jest dłuższy czas gry (50 sek.).
+b) Decyduje sędzia wymieniony jako pierwszy w protokole (50 sek.).
+c) Decyduje sędzia z pola gry (42 sek.).
+d) Sędziowie muszą podjąć wspólną decyzję.
+
+17.8
+Który z sędziów rozpoczyna spotkanie jako sędzia z pola gry, a który jako sędzia bramkowy?
+a) Sędzia wymieniony jako pierwszy w protokole zaczyna mecz jako sędzią z pola gry.
+b) Sędzia wymieniony jako pierwszy w protokole zaczyna mecz jako sędzia bramkowy.
+c) Sędziowie wykonują losowanie żeby zdecydować.
+d) Sędziowie sami decydują o tym, na jakich pozycjach rozpoczną.
+
+17.9
+Po kolizji dwóch zawodników sędziowie równocześnie gwiżdżą. Sędzia z pola gry sygnalizuje faul w ataku, a sędzia bramkowy wskazuje przewinienie obrońcy. Prawidłowa decyzja?
+a) Decyzja sędziego bramkowego.
+b) Decyzja sędziego z pola gry.
+c) Sędziowie dokonują konsultacji w celu podjęcia wspólnej decyzji.
+d) Zatrzymanie czasu gry jest obowiązkowe.
+e) Zatrzymanie czasu gry jest obowiązkowe, jeśli ostateczna decyzja jest przeciwko drużynie będącej w ataku.
+e) Zatrzymanie czasu gry nie jest obowiązkowe, jeśli sędziowie porozumiewają się przy pomocy sprzętu elektronicznego.

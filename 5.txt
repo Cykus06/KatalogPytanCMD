@@ -1,0 +1,90 @@
+5.1
+Bramkarz B1 broni rzut na bramkę i rozpoczyna kontratak. Wykonując podanie przekracza linię pola bramkowego lewą stopą. Prawidłowa decyzja?
+a) Brak reakcji
+b) Rzut wolny dla drużyny A
+c) Powtórzyć rzut od bramki po sygnale gwizdkiem
+
+5.2
+Bramkarz A12 stoi w polu gry. Przyjmując podanie od zawodnika tej samej drużyny robi krok w tył tak, że jedną nogą staje w polu bramkowym, a drugą zostaje w polu gry. Prawidłowa decyzja?
+a) Rzut karny dla drużyny B
+b) Brak reakcji
+c) Rzut wolny dla drużyny B
+d) 2-minutowe wykluczenie dla A12
+
+5.3
+Bramkarz A12 broni rzut, po czym rzuca się na piłkę, która zmierza w kierunku pola gry. A12 udaje się złapać piłkę i ślizgając się poza pole bramkowe podaje ją do zawodnika tej samej drużyny. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B
+b) Brak reakcji
+c) Rzut od bramki dla drużyny A po sygnale gwizdkiem
+
+5.4
+Bramkarz B1 obronił rzut na bramkę. Piłka toczy się w kierunku pola gry. Żeby zatrzymać piłkę zanim dosięgnie jej A15, który czeka przy linii pola bramkowego, B1 uderza piłkę stopą tak, że wychodzi poza linię końcową boiska, zanim A15 może ją dosięgnąć. Prawidłowa decyzja?
+a) Rzut karny dla drużyny A
+b) Rzut wolny dla drużyny A
+c) Brak reakcji
+d) Kara progresywna dla B1, ponieważ stworzył zagrożenie dla przeciwnika
+
+5.5
+Bramkarzowi A12 nie udało się opanować piłki. Piłka toczy się w polu bramkowym w kierunki linii bocznej. Bramkarz używa stopy w celu skierowania jej poza linię końcową boiska. Prawidłowa decyzja?
+a) Rzut od bramki dla drużyny A
+b) Rzut wolny dla drużyny B
+c) Rzut z linii bocznej dla drużyny B
+d) Kranie progresywne dla bramkarza
+
+5.6
+Bramkarz A1 blokuje rzut. Piłka toczy się w kierunku pola gry, gdzie B6 czeka, żeby ją zebrać. A1 udaje się zatrzymać piłkę stopą w polu bramkowym. Prawidłowa decyzja?
+a) Rzut od bramki dla drużyny A po sygnale gwizdkiem
+b) Kara progresywna dla A1
+c) Rzut wolny dla drużyny B
+d) Rzut karny dla drużyny B
+
+5.7
+Zawodnik B18 rzuca na bramkę. Rzut jest zablokowany przez A7 w taki sposób, że piłka zmienia kierunek lotu i zmierza prosto w światło bramki A. Bramkarz A1 goni piłkę i udaje mu się ją wybić stopą poza linię końcową boiska. Prawidłowa decyzja?
+a) Rzut od bramki dla drużyny A
+b) Rzut z linii bocznej dla drużyny B
+c) Rzut wolny dla drużyny B
+d) Upomnienie dla A1
+
+5.8
+Bramkarz B12 wyskakuje we własnym polu bramkowym żeby złapać długie podanie od A7. B12 łapie piłkę w powietrzu i ląduje z piłką w rękach z jedną nogą w polu bramkowym, a drugą w polu gry. W tej pozycji podaje do B3. Prawidłowa decyzja?
+a) Rzut karny dla drużyny A
+b) Brak reakcji
+c) Rzut wolny dla drużyny A
+d) Korekta, powtórzyć rzut od bramki po sygnale gwizdkiem
+
+5.9
+Zawodnik A9 podaje piłkę do bramkarz A1, który stoi w polu gry. Z powodu wywieranej przez przeciwnika presji A9 podaje piłkę zbyt wysoko tak, że A1 musi cofnąć się i łapiąc piłkę staje jedną nogą we własnym polu bramkowym. Prawidłowa decyzja?
+a) Brak reakcji
+b) Zatrzymanie czasu gry
+c) Rzut karny dla drużyny B
+d) Rzut wolny dla drużyny B
+
+5.10
+Rzut wolny dla drużyny A przy linii pola bramkowego drużyny A. Bramkarz A1 stoi jedną nogą we własnym polu bramkowym, a drugą w polu gry. W takiej pozycji podaje piłkę do A8, który zdobywa bramkę. Prawidłowa decyzja?
+a) Bramka dla drużyny A
+b) Powtórzyć rzut wolny dla drużyny A przed polem bramkowym drużyny A
+c) Rzut wolny dla drużyny B przed linią pola bramkowego drużyny A
+d) Rzut od bramki dla drużyny B
+e) Rzut karny dla drużyny A
+
+5.11
+Sędziowie decydują o błędzie kroków zawodnika B21, odkłada on piłkę przy linii pola bramkowego drużyny A. Bramkarz A12 chce szybko wznowić grę. Podpiera się ręką w polu gry, ale jedną nogę wciąż ma wewnątrz pola bramkowego. W tej pozycji podaje piłkę do A3, który zdobywa bramkę w kontrataku. Prawidłowa decyzja?
+a) Powtórzyć rzut wolny dla drużyny A po sygnale gwizdkiem
+b) Bramka dla drużyny A
+c) Rzut wolny dla drużyny B z powodu nieprawidłowego wykonania rzutu wolnego przez A12
+d) Zatrzymanie czasu gry
+
+5.12
+Bramkarz B1 opuścił pole bramkowe. Odbija się z pola gry, łapie podanie od zawodnika ze swojej drużyny w powietrzu i ląduje obiema nogami we własnym polu bramkowym. Prawidłowa decyzja?
+a) Brak reakcji
+b) Rzut od bramki dla drużyny B
+c) Rzut wolny dla drużyny A
+d) Rzut karny dla drużyny A
+e) Zatrzymanie czasu gry
+
+5.13
+Piłka leży przed polem bramkowym drużyny A. Bramkarz A1 chcąc zapobiec przejęciu piłki przez przeciwnika, wciąż stojąc w polu bramkowym podnosi piłkę z ziemi. Prawidłowa decyzja?
+a) Rzut wolny dla drużyny B
+b) Rzut karny dla drużyny B
+c) Kara progresywna dla A1
+d) Brak reakcji, takie zagranie jest dozwolone

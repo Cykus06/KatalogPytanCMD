@@ -1,0 +1,139 @@
+7.1
+b
+7:10; 11:1 
+
+7.2
+a
+7:1 
+
+7.3
+b
+7:3a 
+
+7.4
+a
+7:3d 
+
+7.5
+b
+7:3 
+
+7.6
+b
+7:3; 7:4; 7:7 
+
+7.7
+c
+7:4b 
+
+7.8
+b
+7:6 
+
+7.9
+b
+7:7; 13:1a 
+
+7.10
+b
+7:7; 13:1a 
+
+7.11
+c
+7:7; 13:1a 
+
+7.12
+b
+7:9; 11:1 
+
+7.13
+d
+7:9; 15:2 
+
+7.14
+a
+7:4; 8:1a 
+
+7.15
+c
+7:10; 8:1c; 13:1a 7.16 a 7:1 
+
+7.17
+b
+7:10 
+
+7.18
+b
+7:12 
+
+7.19
+b
+7:1; 7:6 
+
+7.20
+b
+7:8 
+
+7.21
+a
+7:1; 7:3 komentarz
+
+7.22
+b
+7:11; Objaśnienia 4
+
+7.23
+a
+7:11; 7:12; Objaśnienia 4 /B.2/ 
+
+7.24
+ab
+Objaśnienia 4 /C/
+
+7.25
+bcd
+Objaśnienia 4
+
+7.26
+d
+7:11; 7:12; Objaśnienia 4 /B.1/ 
+
+7.27
+ade
+Objaśnienia 4 
+
+7.28
+bcde
+7:11; Objaśnienia 4 
+
+7.29
+a
+7:11; 7:12; Objaśnienia 4; Zał. 3 Wsparcie „4 podania”
+
+7.30
+b
+7:11; 7:12; Objaśnienia 4; Zał. 3 Wsparcie „4 podania”
+
+7.31
+c
+7:11; 7:12; Objaśnienia 4 
+
+7.32
+d
+7:11; 7:12; Objaśnienia 3; Zał. 3 Wsparcie „4 podania”
+
+7.33
+bc
+7:11; 7:12; Objaśnienia 3; Zał. 3 Wsparcie „4 podania”
+
+7.34
+c
+7:11; 7:12; Objaśnienia 4d; Nowe Wytyczne
+
+7.35
+ad
+7:11; 7:12; Objaśnienie 4; Zał. 3 Wsparcie „4 podania”
+
+7.36
+bdf
+2:8; 7:11; 7:12; Objaśnienie 4; Zał. 3 Wsparcie „4 podania” 
