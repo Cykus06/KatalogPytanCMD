@@ -72,7 +72,11 @@ ad
 
 2.19
 acd
-2:2 komentarz; 4:11; 16:5; 16:6b; 16:10 2.20 c 2:3; 2:4; 11:1 
+2:2 komentarz; 4:11; 16:5; 16:6b; 16:10
+
+2.20
+c
+2:3; 2:4; 11:1 
 
 2.21
 be
@@ -84,7 +88,11 @@ bc
 
 2.23
 ae
-2:4; 2:5; 2:9 komentarz; 4:5; 9:1 trzeci akapit 2.24 b 2:2 komentarz; 16:3d 
+2:4; 2:5; 2:9 komentarz; 4:5; 9:1 trzeci akapit
+
+2.24
+b
+2:2 komentarz; 16:3d 
 
 2.25
 abcde
@@ -104,7 +112,11 @@ acd
 
 2.29
 bcef
-2:9; 2:9komentarz.;13:4a;15:5b;Objaśnienie 3 akapit 10. 2.30 b, f 2:7; 13:4b 
+2:9; 2:9komentarz.;13:4a;15:5b;Objaśnienie 3 akapit 10.
+
+2.30
+bf
+2:7; 13:4b 
 
 2.31
 be

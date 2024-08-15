@@ -104,7 +104,11 @@ ae
 
 4.27
 ad
-4:5; 14:1a; 16:3a; Objaśnienia 7 4.28 a 4:4 komentarz 
+4:5; 14:1a; 16:3a; Objaśnienia 7
+
+4.28
+a
+4:4 komentarz 
 
 4.29
 c

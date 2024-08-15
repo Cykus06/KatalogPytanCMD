@@ -98,6 +98,6 @@ c
 a
 13:2; 15:7 drugi akapit 
 
-15:26
+15.26
 b
 15:1, NOTE  

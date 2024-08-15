@@ -34,6 +34,11 @@ public:
 	{
 		in_question_ >> question_;
 		in_answer_ >> answer_;
+
+		if (question_.number() != answer_.number())
+		{
+			throw std::exception("Wrong answer attach");
+		}
 	}
 
 	void print()
